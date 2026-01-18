@@ -1,0 +1,34 @@
+Basic Beginners Guide to git:
+
+First, to get the repo on your computer use command:
+
+git clone <url> ---- The url can be found under the green code button on the repo m ain page
+
+
+Second, it's good practice to check what branch you are on and the status of what files are tracked vs untracked
+
+The command " git branch " will tell you which branch you're on which will be useful as the project progresses
+
+" git status " Should be useful right away once we start working on files on our devices
+
+Third, 
+
+" git pull " ---- git pull will update all the changes made to the repo and bring them onto your local device 
+
+
+Now here are the main commands to submit to the repo:
+
+1. git add file.py  OR git add . ; git add prepares files to be uploaded to the repo. You can either decalre a file based off its full
+
+name or you can use a period to add all files.
+
+2. git commit -m "message" ; git commit is the step right before the final send off where you bundle up all your git add's and then give
+
+a concise message about what all your commit has "updated isolation forest model" and so on.
+
+3. To submit all the files you've worked on after using git add and git commit you'll use the " git push " command to send your files to
+
+the repo. 
+
+I'll have to explain the push and pull a bit more, but that can come later as we get deeper into the project. If you have any questions
+feel free to text me and I can update this file as well -J
