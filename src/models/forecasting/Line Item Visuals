@@ -1,0 +1,52 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+
+# --- Load & reshape ---
+df = pd.read_csv("Data.csv", header=0)
+
+# First two columns are feature code and description; the rest are date columns
+id_cols = df.columns[:2].tolist()
+date_cols = df.columns[2:].tolist()
+
+# Convert to long format
+df_long = df.melt(id_vars=id_cols, value_vars=date_cols, var_name="date", value_name="value")
+df_long.columns = ["feature", "description", "date", "value"]
+df_long["date"] = pd.to_datetime(df_long["date"])
+df_long["value"] = pd.to_numeric(df_long["value"], errors="coerce")
+
+# Drop rows where description is "Description not found"
+df_long = df_long[df_long["description"] != "Description not found"]
+
+# Build a readable label: description (feature code)
+df_long["label"] = df_long["description"].str.strip() + " (" + df_long["feature"] + ")"
+
+features = df_long["label"].unique()
+
+# --- Plot: one subplot per feature, arranged in a grid ---
+n = len(features)
+ncols = 2
+nrows = (n + 1) // ncols
+
+fig, axes = plt.subplots(nrows=nrows, ncols=ncols, figsize=(18, nrows * 3.5), constrained_layout=True)
+axes = axes.flatten()
+
+for i, feat in enumerate(sorted(features)):
+    ax = axes[i]
+    subset = df_long[df_long["label"] == feat].sort_values("date")
+    ax.plot(subset["date"], subset["value"] / 1e6, linewidth=1.5, color="steelblue")
+    ax.set_title(feat, fontsize=8, wrap=True)
+    ax.set_xlabel("")
+    ax.set_ylabel("$ Millions", fontsize=7)
+    ax.tick_params(axis="both", labelsize=7)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{x:,.0f}"))
+    ax.grid(True, linestyle="--", alpha=0.4)
+
+# Hide any unused subplots
+for j in range(i + 1, len(axes)):
+    axes[j].set_visible(False)
+
+fig.suptitle("Historical Trends Over Time (Quarterly)", fontsize=14, fontweight="bold", y=1.01)
+plt.savefig("bank_trends.png", dpi=150, bbox_inches="tight")
+print("Saved: bank_trends.png")
+plt.show()
