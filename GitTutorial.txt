@@ -30,5 +30,4 @@ a concise message about what all your commit has "updated isolation forest model
 
 the repo. 
 
-I'll have to explain the push and pull a bit more, but that can come later as we get deeper into the project. If you have any questions
-feel free to text me and I can update this file as well -J
+I'll have to explain the push and pull a bit more, but that can come later as we get deeper into the project. If you have any questions feel free to text me and I can update this file as well -J
