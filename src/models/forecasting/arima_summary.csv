@@ -1,0 +1,34 @@
+Feature,ARIMA Order,AIC,Forecast Q1,Forecast Q8
+. 16. Other borro wed mone y (includes mor tgage indebtedness and ob ligations under capitaliz ed (RCFD3190),"(2, 1, 2)",751.9,81.8,84.3
+".d. d. Loans and leases , net of unearned income and allowance (item .b minus .c) ......... (RCFDB529)","(2, 1, 0)",895.3,1153.2,1167.8
+Accum ulated other comprehensiv e income (RCFDB530),"(2, 1, 2)",423.1,-7.0,-7.1
+Allowance for loan and leases losses (RCFD3123),"(1, 1, 0)",307.7,13.2,13.2
+Available-for-sale securities (RCFD1773),"(2, 1, 2)",901.5,370.4,370.5
+Common stoc k (RCFD3230),"(0, 1, 0)",-563.2,3.0,3.0
+Goodwill (RCFD3163),"(0, 1, 0)",511.8,57.3,57.3
+Held-to-maturity securities (RCFD1754),"(2, 1, 2)",786.4,523.7,511.1
+In domestic offices (RCON2200),"(1, 1, 2)",985.3,1961.6,2069.5
+"In foreign offices , Edge and Ag reement subsidiaries, and IBFs (RCFN2200)","(2, 1, 2)",771.8,138.1,138.4
+Interest-bearing (RCFN6636),"(2, 1, 2)",768.6,124.5,123.6
+Interest-bearing (RCON6636),"(3, 1, 2)",895.2,1410.9,1499.9
+Interest-bearing balances (RCFD0071),"(1, 1, 1)",960.5,219.4,233.1
+Investment in unconsolidated subsidiaries and associated companies (RCFD2130),"(0, 1, 0)",328.4,11.1,11.1
+"Loans and leases , net of unearned income (RCFDB528)","(2, 1, 0)",899.3,1166.0,1179.5
+Loans and leases held for sale (RCFD5369),"(0, 1, 3)",596.8,6.8,7.1
+Minor ity interest in consolidated subsidiaries (RCFD3000),"(1, 0, 1)",264.6,0.1,0.2
+Noninterest-bearing (RCFN6631),"(0, 1, 2)",364.1,15.8,16.2
+Noninterest-bearing (RCON6631),"(1, 1, 0)",857.9,561.0,552.7
+Noninterest-bearing balances and currency and coin (RCFD0081),"(2, 1, 2)",441.9,24.4,23.7
+Other assets (RCFD2160),"(2, 1, 2)",705.6,92.1,91.0
+Other liabilities (RCFD2930),"(0, 1, 3)",605.2,45.5,45.4
+Other real estate o wned (RCFD2150),"(2, 0, 3)",-0.7,0.2,0.4
+Premises and fix ed assets (including capitaliz ed leases) (RCFD2145),"(0, 1, 0)",263.0,19.0,19.0
+Retained ear nings (RCFD3632),"(1, 1, 1)",442.7,80.1,86.1
+Subordinated notes and debentures (RCFD3200),"(1, 1, 1)",302.4,1.4,1.4
+Surplus (e xclude all sur plus related to pref erred stoc k) (RCFD3839),"(0, 1, 0)",631.5,177.6,177.6
+Total assets (RCFD2170),"(1, 1, 3)",1022.3,2654.4,2700.8
+Total equity capital (RCFD3210),"(1, 1, 1)",641.0,253.4,266.4
+Total liabilities (RCFD2948),"(3, 1, 1)",1007.6,2402.5,2458.2
+"Total liabilities , minor ity interest, and equity capital (RCFD3300)","(1, 1, 3)",1022.3,2654.4,2700.8
+Trading assets (RCFD3545),"(0, 1, 1)",793.3,121.3,121.3
+Trading liabilities (RCFD3548),"(2, 1, 2)",660.0,42.6,43.2
