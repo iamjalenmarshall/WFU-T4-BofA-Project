@@ -1,0 +1,1378 @@
+code,description,full_description,item_type
+RCFD0010,Cash And Balances Due From Depository Institutions,Total of 'Cash Items in Process of Collection and Unposted Debits (0020)'; 'Balances Due from Banks in  Foreign Countries and Foreign Central Banks (0070)'; 'Currency and Coin (0080)'; 'Balances Due f,F
+RCFD0022,Cash Items In Process Of Collection; Unposted Debits; And Currency And Coin,"'Cash items in process of collection' includes:
+
+ (1)   Checks or drafts in process of collection that are drawn on another depository institution (or on a Federal Reserve Bank) and that are payable",D
+RCFD0071,Interest-Bearing Balances,"
+ The total of all interest-bearing balances due from depository institutions that are included in Schedule RC-A; item 0010.
+
+ For the FFIEC 034 report; includes all interest-bearing balances due f",F
+RCFD0081,Noninterest-Bearing Balances And Currency And Coin,Deposit accounts 'due from' other depository institutions that are overdrawn are reported as borrowings in item  (2332); except overdrawn 'due from' accounts arising in connection with checks or draft,F
+RCFD0090,Balances Due From Federal Reserve Banks, The bank's total balances due from the Federal Reserve Bank as shown by the reporting bank's books. This  amount includes reserve and other balances. Includes the amount of reserve balances actually ,F
+RCFD0211,Amortized Cost Of Held-To-Maturity U.S. Treasury Securities,Includes the amortized cost of all held-to-maturity U.S. Treasury securities not held in trading accounts.  Included are all bills; certificates of indebtedness; notes; and bonds; including those issu,F
+RCFD0213,Fair Value Of Held-To-Maturity U.S. Treasury Securities,"
+ Includes the fair (market) value of all held-to-maturity U.S. Treasury securities not held in trading accounts. (See item 0211.)
+
+NOTE:
+
+Reported in Schedule RC-B; column B for the FFIEC 031-03",F
+RCFD0416,Pledged Securities,"
+Includes the amortized cost of all held-to-maturity securities and the fair value of all available-for-sale securities (included in Schedule RC-B for the FFIEC 031-034 reports and in Schedule HC-A (",F
+RCFD1248,Loans Secured By Real Estate To Non-U.S. Addressees (Domicile) - Past Due 30-89 Days And Still Accruing,Includes the full outstanding balances of real estate loans to non-U.S. addressees (not just delinquent payments) that are past due 30-89 days and upon which the bank continues to accrue interest. (Se,F
+RCFD1249,Loans Secured By Real Estate To Non-U.S. Addressees (Domicile) - Past Due 90 Days Or More And Still Accruing,"
+ Includes the full outstanding balances of real estate loans to non-U.S. addressees (not just delinquent payments) that are past due 90 days or more and upon which the bank continues to accrue inter",F
+RCFD1250,Loans Secured By Real Estate To Non-U.S. Addressees (Domicile) - Nonaccrual,"
+ Includes the full outstanding balances of real estate loans to non-U.S. addressees (not just delinquent payments) that the bank has placed in nonaccrual status. (See item 1247.)
+
+",F
+RCFD1251,Commercial And Industrial Loans To U.S. Addressees (Domicile) - Past Due 30-89 Days And Still Accruing,Includes the full outstanding balances (not just delinquent payments) of commercial and industrial loans to U.S.  addressees that are past due 30-89 days and upon which the bank continues to accrue in,F
+RCFD1252,Commercial And Industrial Loans To U.S. Addressees (Domicile) - Past Due 90 Days Or More And Still Accruing,"
+ Includes the full outstanding balances (not just delinquent payments) of commercial and industrial loans to U.S. addressees that are past due 90 days or more and upon which the bank continues to ac",F
+RCFD1253,Commercial And Industrial Loans To U.S. Addressees (Domicile) - Nonaccrual,"
+ Includes the full outstanding balances (not just delinquent payments) of commercial and industrial loans to U.S.  addressees that the bank has placed in nonaccrual status. Also includes commercial ",F
+RCFD1254,Commercial And Industrial Loans To Non-U.S. Addressees (Domicile) - Past Due 30-89 Days And Still Accruing,Includes the full outstanding balances (not just delinquent payments) of commercial and industrial loans to  non-U.S. addressees that are past due 30-89 days and upon which the bank continues to accru,F
+RCFD1255,Commercial And Industrial Loans To Non-U.S. Addressees (Domicile) - Past Due 90 Days Or More And Still Accruing,"
+ Includes the full outstanding balances (not just delinquent payments) of commercial and industrial loans to  non-U.S. addressees that are past due 90 days or more and upon which the bank continues ",F
+RCFD1256,Commercial And Industrial Loans To Non-U.S. Addressees (Domicile) - Nonaccrual,"
+ Includes the full outstanding balances (not just delinquent payments) of commercial and industrial loans to non-U.S. addressees that the bank has placed in nonaccrual status. (See item 1253.)
+
+
+",F
+RCFD1286,Amortized Cost Of Available-For-Sale U.S. Treasury Securities,"
+ Includes the amortized cost of all available-for-sale U.S. Treasury securities not held in trading accounts. (See item 0211.)
+
+NOTE:
+
+Reported in Schedule RC-B; column C for the FFIEC 031-034 r",F
+RCFD1287,Fair Value Of Available-For-Sale U.S. Treasury Securities,"Includes the fair (market) value of all available-for-sale U.S. Treasury securities not held in trading accounts. (See item 0211.)
+
+NOTE:
+
+Reported in Schedule RC-B; column D for the FFIEC 031-034",F
+RCFD1583,Loans To Finance Agricultural Production And Other Loans To Farmers - Nonaccrual,Includes the outstanding balances of loans to finance agricultural production and other loans to farmers that the  bank has placed in nonaccrual status. Also includes agricultural loans that have been,F
+RCFD1590,Loans To Finance Agricultural Production And Other Loans To Farmers, Includes all loans for the purpose of financing agricultural production; whether secured or unsecured and  whether made to farm and ranch owners and operators (including tenants) or to non-farmers. O,F
+RCFD1594,Loans To Finance Agricultural Production And Other Loans To Farmers - Past Due 30-89 Days And Still Accruing, Includes the full outstanding balances (not just delinquent payments) of loans that are included in 'Loans to  Finance Agricultural Production and Other Loans to Farmers (1590)' that are past due 30-,F
+RCFD1597,Loans To Finance Agricultural Production And Other Loans To Farmers - Past Due 90 Days Or More And Still Accruing,Includes the full outstanding balances (not just delinquent payments) of loans to finance agricultural and other  loans to farmers that are past due 90 days or more and upon which the bank continues t,F
+RCFD1737,Amortized Cost Of Other Held-To-Maturity Domestic Debt Securities,"
+(2)  Preferred stock of U.S.-chartered corporations that by its terms either must be redeemed by the issuing enterprise or is redeemable at the option of the investor.
+
+(3)  Detached U.S. Governme",F
+RCFD1738,Fair Value Of Other Held-To-Maturity Domestic Debt Securities,"
+Includes the current fair (market) value of all other held-to-maturity domestic debt securities. (See item 1737).
+
+COMPARABILITY:
+
+Beginning 3/31/01; reported on Schedule HC-B-Securities for the",F
+RCFD1739,Amortized Cost Of Other Available-For-Sale Domestic Debt Securities,"
+Includes the amortized cost of all other available-for-sale domestic debt securities. (See item 1737).
+
+COMPARABILITY:
+
+Beginning 3/31/01; reported on Schedule HC-B-Securities for the FR Y-9C (B",F
+RCFD1741,Fair Value Of Other Available-For-Sale Domestic Debt Securities,"
+Includes the current fair (market) value of all other available-for-sale domestic debt securities. (See item 1737).
+
+COMPARABILITY:
+
+Beginning 3/31/01; reported on Schedule HC-B-Securities for t",F
+RCFD1742,Amortized Cost Of Held-To-Maturity Other Foreign Debt Securities,"
+1-21-2014 - update made to the title. Changed the title from 'Amortized Cost of Held-to-Maturity Foreign Debt Securities' to 'Amortized Cost of Held-to-Maturity Other Foreign Debt Securities'
+Inclu",F
+RCFD1743,Fair Value Of Held-To-Maturity Other Foreign Debt Securities,"1-21-2014 - update made to the title. Changed the title from 'Fair Value of Held-to-Maturity Foreign Debt Securities' to 'Fair Value of Held-to-Maturity Other Foreign Debt Securities'
+
+
+Includes th",F
+RCFD1744,Amortized Cost Of Available-For-Sale Other Foreign Debt Securities,"1-21-2014 - update made to the title. Changed the title from 'Amortized Cost of Available-for-Sale Foreign Debt Securities' to 'Amortized Cost of Available-for-Sale Other Foreign Debt Securities'
+
+I",F
+RCFD1746,Fair Value Of Available-For-Sale Other Foreign Debt Securities,"1-21-2014 - update made to the title. Changed the title from 'Fair Value of Available-for-Sale Foreign Debt Securities' to 'Fair Value of Available-for-Sale Other Foreign Debt Securities'
+
+Includes ",F
+RCFD1752,Historical Cost Of All Other Available-For-Sale Equity Securities,"
+ Includes the historical cost of all available-for-sale holdings of equity securities that do not have readily  determinable fair values. For purposes of this item; the historical cost (book value) ",F
+RCFD1754,Held-To-Maturity Securities; Total,Includes the total amortized cost of held-to-maturity securities. (This amount includes the sum of items 0211;  items 8492(D); 8496(D); 8500(D) and 8504(D) which is reported from Schedule RC-B; column,F
+RCFD1763,Commercial And Industrial Loans To U.S. Addressees,"'Commercial and Industrial Loans to U.S. Addressees (1761)' less bankers' acceptances and commercial paper.&#x0D;
+&#x0D;
+NOTE:&#x0D;
+&#x0D;
+Beginning 3/31/01; reported on the FFIEC 041 report; however",F
+RCFD1764,Commercial And Industrial Loans To Non-U.S. Addressees," 'Commercial and Industrial Loans to Non-U.S. Addressees (1762)' less bankers' acceptances and commercial paper.&#x0D;
+&#x0D;
+NOTE:&#x0D;
+&#x0D;
+Beginning 3/31/01; reported on the FFIEC 041 report; ho",F
+RCFD1771,Total Fair Value Of Held-To-Maturity Securities, Includes the fair value of held-to-maturity securities. (This amount includes the sum of items 0213; 8493; 8497; items 8501 and 8505 which is reported from Schedule RC-B; column B on the FFIEC 031-03,F
+RCFD1772,Total Amortized Cost Of Available-For-Sale Securities, Includes the amortized cost of available-for-sale securities. (This amount includes the sum of items 1286; 8494; items 8498; 8502 and 8506 which is reported from Schedule RC-B; column C on the FFIEC ,F
+RCFD1773,Available-For-Sale Debt Securities (From Schedule Rc-B; Column D),Includes the total fair value of available-for-sale securities. (This amount includes the sum of items 1287; items 8495(D); 8499(D); 8503(D) and 8507(D) which is reported from Schedule RC-B; column D ,F
+RCFD2081,Loans To Foreign Governments And Official Institutions,,F
+RCFD2107,Obligations (Other Than Securities And Leases) Of States And Political Subdivisions In The U.S., Includes all obligations of states and political subdivisions in the United States (including those secured by real  estate); other than leases and other those obligations reported as securities issu,D
+RCFD2122,Total Loans And Leases; Net Of Unearned Income,Beginning 6/30/1997; excludes holdings of commercial paper which are now reported as securities for the FR Y-11Q (BHCS) and FR Y-9SP (BHSP) report. For the FR Y-11Q (BHCS) report; also excludes the fa,F
+RCFD2123,Unearned Income On Loans, Includes unearned income only to the extent that it is included in various loan items. For banks that report each  loan line net of unearned income; this item will be zero. (Unearned income includes ,F
+RCFD2130,Investments And Unconsolidated Subsidiaries And Associated Companies,Includes the amount of the bank's investments in subsidiaries that have not been consolidated; associated  companies; and corporate joint ventures; unincorporated joint ventures; general partnerships;,F
+RCFD2145,Premises And Fixed Assets (Including Capitalized Leases),As of 12/31/2023; ASU 2016-13 'Measurement of Credit Losses on Financial Instruments;' was effective for all institutions.&#x0D;Includes the book value; less accumulated depreciation or amortization; ,F
+RCFD2148,Net Deferred Tax Assets,"
+ Includes the net amount after offsetting deferred tax assets (net of valuation allowance) and deferred tax  liabilities measured at the report date for a particular tax jurisdiction if the net resu",F
+RCFD2150,Other Real Estate Owned,The book value (not to exceed fair value); less accumulated depreciation; if any; of all real estate other than bank premises actually owned by the bank and its consolidated subsidiaries. Includes as ,F
+RCFD2160,Other Assets,This item represents bank assets that cannot be properly included in any of the preceding items. For banks on  accrual basis; this item includes total accruals of income earned or accrued but not coll,F
+RCFD2168,Other Assets,"
+Includes items which cannot be properly reported against any other asset item. Such items are:
+
+ (1)   Income earned but not collected on assets other than loans (e.g.; securities).
+
+ (2)   Prep",F
+RCFD2170,Total Assets,"The sum of all asset items. This item must equal 'Total Liabilities; Limited-Life Preferred Stock and Equity Capital (3300)'.&#x0D;
+&#x0D;
+FRBS - FASSETS&#x0D;
+&#x0D;
+COMPARABILITY:&#x0D;
+Beginning 12",F
+RCFD2651,Fhlb Advances (Loans) Due In One Year Or Less,"All advances which fall due in one year or less. Includes any amortization of long term advances due within one year.
+
+COMPARABILITY:
+
+Beginning 3/31/01; for series RCFD and RCON; report the amoun",F
+RCFD2746,Loans To Finance Commercial Real Estate; Construction; And Land Development Activities Included In Items 1766; 1563 For (Fr Y-9C); In Items 1766; 1563 For (Ffiec 031); In Items 1766; 1564 For (Ffiec 032 And 033); And In Items 1766; 2080 For (Ffiec 034) ,"
+ Includes loans to finance commercial and residential real estate activities; e.g.; acquiring; developing and  renovating commercial and residential real estate; that are reported in items 1766; 156",F
+RCFD2930,Other Liabilities; Total,"Includes the sum of 'Expenses Accrued and Unpaid (2933)'; 'Net Deferred Income Taxes (3049)'; 'Minority Interest in Consolidated Subsidiaries (3000)' and 'Other Liabilities (2938)'.&#x0D;
+&#x0D;
+For t",F
+RCFD2948,Total Liabilities And Minority Interest,"The sum of all liability items including subordinated notes and debentures.&#x0D;
+&#x0D;
+For FNBK; includes the sum of items A012 and C380.&#x0D;
+&#x0D;
+NOTE:&#x0D;
+&#x0D;
+SUAB series is reported on t",F
+RCFD3000,Minority Interest In Consolidated Subsidiaries And Similar Items,The proportionate interest held by those other than reporting bank in the equity capital accounts of  majority-owned consolidated subsidiaries. The minority interest owner bears the share of losses on,F
+RCFD3123,Allowance For Loan And Lease Losses,As of 12/31/2023; ASU 2016-13 'Measurement of Credit Losses on Financial Instruments;' was effective for all institutions.&#x0D;ALLOWANCE FOR LOAN AND LEASE LOSSES&#x0D;Includes the sum of 'Allowance ,F
+RCFD3128,Allocated Transfer Risk Reserves, Section 905 of the International Lending Supervision Act of 1983; enacted November 30 of last year states that  each federal banking agency is to require banks under its jurisdiction 'to establish an,F
+RCFD3163,Goodwill,Includes the amount (book value) of unamortized goodwill. Represents the excess of the cost of a company over  the sum of the fair values of the tangible assets and identifiable intangible assets acqu,F
+RCFD3164,Mortgage Servicing Assets,Includes the carrying value of mortgage servicing assets; i.e.; the unamortized cost of acquiring contracts to  service loans secured by real estate (as defined for Schedule RC-C or Schedule HC-B (BHC,F
+RCFD3190,Other Borrowed Money,Includes the sum of other borrowed money 'Owned To Nonrelated Commercial Banks In The U.S. (Including  Their IBFs) (2861)'; 'Owned To Nonrelated Banks In Foreign Countries (1935)'; and 'Owned To Other,D
+RCFD3200,Subordinated Notes And Debentures,"&#x0D;
+Includes the amount of outstanding subordinated notes and debentures (including mandatory convertible debt).&#x0D;
+&#x0D;
+&#x0D;
+ Massachusetts mutual savings banks and cooperative banks that h",F
+RCFD3210,Total Equity Capital,The sum of 'Perpetual Preferred Stock and Related Surplus (3838)'; 'Common Stock (3230)'; 'Surplus (3839)'; 'Undivided Profits and Capital Reserves (3632)'; 'Cumulative Foreign Currency Translation Ad,F
+RCFD3230,Common Stock,"Includes the aggregate par or stated value of common stock issued.&#x0D;
+&#x0D;
+COMPARABILITY:&#x0D;
+&#x0D;
+Beginning 12/31/02; reported on Schedule BS for the FR Y-7N (FNBK) report.&#x0D;
+&#x0D;
+Begi",F
+RCFD3300,Total Liabilities; Limited-Life Preferred Stock; And Equity Capital,"Includes the sum of 'Total Liabilities (2948)'; and 'Total Equity Capital (3210)'. Agrees with 'Total Assets (2170).'&#x0D;
+&#x0D;
+NOTE:&#x0D;
+&#x0D;
+Reported on Schedule SFC for the CUCP report.&#x0D",F
+RCFD3353,Quarterly Average Of Federal Funds Purchased And Securities Sold Under Agreements To Repurchase,"The quarterly average of 'Federal Funds Purchased and Securities Sold Under Agreements to Repurchase (2800)'. (See comparability below for the BHCK series.)
+
+The amounts averaged are those outstandi",F
+RCFD3355,Quarterly Average Of Other Borrowed Money," The quarterly average of 'Other Borrowed Money (2850)' (average of 2332 and 2333 for Bank Holding Company Financial Data).
+
+ The amounts averaged are those outstanding at the close of business for ",F
+RCFD3365,Quarterly Average Of Federal Funds Sold And Securities Purchased Under Agreements To Resell,"The quarterly average for 'Federal Funds Sold and Securities Purchased Under Agreements to Resell (1350)'. (See comparability below for the BHCK series.)
+
+ The amounts averaged are those outstanding",F
+RCFD3368,Quarterly Average Of Total Assets,Includes the quarterly average for the entity's total assets as defined for 'Total Assets 2170' (reported in Schedule RC for the FFIEC 031; 032; 033 and 034 reports and in Schedule HC for the FR Y-9C ,F
+RCFD3381,Quarterly Average Of Interest-Bearing Balances Due From Depository Institutions," Includes the quarterly average for the fully consolidated bank's interest-bearing balances due from depository institutions as defined in 'Interest-Bearing Balances (0071)'.
+
+ For the FFIEC 002 rep",F
+RCFD3401,Quarterly Average Of Assets Held In Trading Accounts,"
+ Includes the quarterly average for the fully consolidated bank for assets held in trading accounts as defined in 'Assets Held in Trading Accounts (2146)'.
+
+COMPARABILITY:
+
+Beginning 3/31/01; re",F
+RCFD3430,All Other Off-Balance Sheet Liabilities, Includes all significant types of off-balance sheet liabilities not covered in other items of Schedule RC-L for  banks; Schedule HC-F for bank holding companies or under 'Off-Balance Sheet Items' for,F
+RCFD3432,Securities Borrowed, Includes the amount of securities borrowed against collateral (other than cash); or on an uncollateralized basis;  for such purposes as a pledge against deposit liabilities or delivery against short ,F
+RCFD3433,Securities Lent,"NOTE:
+
+Beginning 3/31/01; for series RCFD and RCON report in column A the amount of securities lent reported in Schedule RC-L; item 6. Reported in Schedules HC-L and RC-R for the FFIEC 031 and 041 r",F
+RCFD3450,Interest Rate Contracts - Notional Value Of All Outstanding Interest Rate Swaps,&#x0D;Includes the notional value of all outstanding interest rate and basis swaps whose predominant risk characteristic  is interest rate risk; whether the swap is undertaken by the reporting entity ,F
+RCFD3484,Lease Financing Receivables (Net Of Unearned Income) - Quarterly Average,"
+ Includes the quarterly average for lease financing receivables; net of unearned income as defined for 'Lease Financing Receivables (Net of Unearned Income) (2165)'.
+
+
+
+For the UBPR series; the ",F
+RCFD3505,Debt Securities And Other Assets - Past Due 30 Through 89 Days And Still Accruing,Includes the amount of all assets other than loans and leases reported in (Schedule RC-C for the FFIEC 031; 032;  033; 034 reports) that are past due 30 through 89 days and that are still accruing as ,F
+RCFD3506,Debt Securities And Other Assets - Past Due 90 Days Or More And Still Accruing,"
+ Includes the amount of all assets other than loans and leases reported in (Schedule RC-C for the FFIEC 031; 032; 033; 034 reports) that are past due 90 days or more and that are still accruing as o",F
+RCFD3507,Debt Securities And Other Assets - Nonaccrual,"
+ Includes the amount of all assets other than loans and leases reported in (Schedule RC-C for the FFIEC 031; 032; 033; 034 reports) that are in nonaccrual status. (See item 3505.)
+
+
+
+For the UBP",F
+RCFD3529,Interest Rate; Foreign Exchange Rate; And Other Commodity And Equity Contracts: Fair Value Of Amounts Carried As Assets - Past Due 30 Through 89 Days,For each interest rate; foreign exchange rate; or other off-balance sheet commodity or equity contract on which a  required payment by the entity's counterparty is past due 30 through 89 days as of th,F
+RCFD3530,Interest Rate; Foreign Exchange Rate; And Other Commodity And Equity Contracts: Fair Value Of Amounts Carried As Assets - Past Due 90 Days Or More,For each interest rate; foreign exchange rate; or other off-balance sheet commodity or equity contract on which a  required payment by the entity's counterparty is past due 90 days or more as of the r,F
+RCFD3545,Trading Assets; Total,Banks that (a) regularly underwrite or deal in securities; interest rate contracts; foreign exchange rate contracts; other off-balance sheet commodity and equity contracts; other financial instruments,F
+RCFD3546,Liability For Short Positions,Includes the total amount of the reporting entity's liabilities resulting from sales of assets that the reporting entity does not own (see the Glossary entry for 'short position' in the Report of Cond,F
+RCFD3547,Revaluation Losses On Interest Rate; Foreign Exchange Rate; And Other Commodity And Equity Contracts, Includes the amount of revaluation losses (i.e.; liabilities) from the 'marking to market' of interest rate; foreign  exchange rate; and other off-balance sheet commodity and equity contracts held fo,F
+RCFD3548,Trading Liabilities; Total,The amount of liabilities from the reporting bank's trading activities is to be reported in this item. Includes  liabilities resulting from sales of assets that the reporting bank does not own and rev,F
+RCFD3549,First Itemized Amount That Exceeds 25% Of All Other Assets (2168),"
+ The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the first line that exceeds  25% of 'All Other Assets (2168)'. It should be used in conjunction with the value report",F
+RCFD3550,Second Itemized Amount That Exceeds 25% Of All Other Assets (2168),"
+ The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the second line that exceeds  25% of 'All Other Assets (2168)'. It should be used in conjunction with the value repor",F
+RCFD3632,Undivided Profits And Capital Reserves,Includes the amount of undivided profits and capital reserves less the carrying value of treasury stock and less the  amount of any borrowings by an Employee Stock Ownership Plan (ESOP) that the repor,F
+RCFD3814,Unused Commitments - Revolving; Open-End Lines Secured By 1-4 Family Residential Properties,"
+ Includes the unused portions of commitments to extend credit under revolving; open-end lines of credit secured  by 1 to 4 family residential properties. These lines; commonly known as home equity l",F
+RCFD3815,Unused Commitments - Credit Card Lines, Includes the unused portions of all commitments to extend credit both to individuals for household; family; and  other personal expenditures and to commercial or industrial enterprises through credit,F
+RCFD3817,Unused Commitments - Securities Underwriting,&#x0D;Includes the unsold portion of the reporting bank's or the reporting bank holding company's own take down in  securities underwriting transactions on a consolidated basis. Also includes note iss,F
+RCFD3819,Financial Standby Letters Of Credit And Foreign Office Guarantees, Includes the amount outstanding and unused as of the report date of all financial standby letters of credit (and all  legally binding commitments to issue financial standby letters of credit) issued ,F
+RCFD3820,Amount Of Financial Standby Letters Of Credit Conveyed To Others,"
+ Includes that portion of the bank's total contingent liability for financial standby letters of credit reported in item  3819 that the bank has conveyed to others. Also includes that portion of the",F
+RCFD3821,Performance Standby Letters Of Credit,Excludes: (1) performance standby letters of credit where the beneficiary is a consolidated subsidiary of the  reporting bank; (2) financial standby letters of credit; and (3) signature or endorsement,F
+RCFD3822,Amount Of Performance Standby Letters Of Credit Conveyed To Others,"
+ Includes that portion of the bank's total contingent liability for performance standby letters of credit reported in  item 3821 that the bank has conveyed to others. Also includes that portion of t",F
+RCFD3826,Foreign Exchange Swaps,&#x0D;Includes the notional principal amount (stated in U.S. dollars) of all outstanding cross-currency interest rate  swaps; whether the swap is undertaken by the reporting entity to hedge its own ex,F
+RCFD3838,Perpetual Preferred Stock And Related Surplus,"Includes the amount of outstanding perpetual preferred stock including any amounts received in excess of its par or stated value.
+
+For the UBPR series; the FDIC's Data Element is STK-PREF-CNVT.
+
+",F
+RCFD3839,Surplus,Includes the net amount formally transferred to the surplus account; including capital contributions; adjustments  arising from treasury stock transactions; and any amount received for common stock in,F
+RCFD5369,Loans And Leases Held For Sale,For series RCFD and RCON; includes the carrying value of all loans and leases that are held for sale. Loans and leases held for sale are reported  at the lower of cost or market value as of the report,F
+RCFD5377,Loans To Depository Institutions And Acceptances Of Other Banks: To U.S. Banks And Other U.S. Depository Institutions - Past Due 30 Through 89 Days And Still Accruing,Includes loans to U.S. banks and other U.S. depository institutions that are past due 30 through 89 days and still  accruing as of the report date. (Reported in Schedule RC-C; items 1507; 1517; 1513; ,F
+RCFD5378,Loans To Depository Institutions And Acceptances Of Other Banks: To U.S. Banks And Other U.S. Depository Institutions - Past Due 90 Days Or More And Still Accruing,"
+ Includes loans to U.S. banks and other U.S. depository institutions that are past due 90 days or more and still accruing as of the report date. (See item 5377.)
+
+",F
+RCFD5379,Loans To Depository Institutions And Acceptances Of Other Banks: To U.S. Banks And Other U.S. Depository Institutions - Nonaccrual,"
+ Includes loans to U.S. banks and other U.S. depository institutions that are in nonaccrual status as of the report date. (See item 5377.)
+
+",F
+RCFD5380,Loans To Depository Institutions And Acceptances Of Other Banks: To Foreign Banks - Past Due 30 Through 89 Days And Still Accruing, Includes loans to foreign banks that are past due 30 through 89 days and still accruing as of the report date.  (Reported in Schedule RC-C; items 1506; 1516; and 1757 for the FFIEC 031 and 032 report,F
+RCFD5381,Loans To Depository Institutions And Acceptances Of Other Banks: To Foreign Banks - Past Due 90 Days Or More And Still Accruing,"
+ Includes loans to foreign banks that are past due 90 days or more and still accruing as of the report date. (See item 5380.)
+
+
+
+For the UBPR series; the FDIC's Data Element name is H-FGNBK90MOR",F
+RCFD5382,Loans To Depository Institutions And Acceptances Of Other Banks: To Foreign Banks - Nonaccrual,"
+Includes loans to foreign banks that are in nonaccrual status as of the report date. (See item 5380.)
+
+
+
+For the UBPR series; the FDIC's Data Element name is H-FGNBKNONAC
+
+This variable is use",F
+RCFD5389,Loans To Foreign Governments And Official Institutions - Past Due 30 Through 89 Days And Still Accruing," Includes loans to foreign governments and official institutions that are past due 30 through 89 days and still accruing as of the report date. (Reported in item 2081.)
+
+NOTE:
+
+Beginning 3/31/01; ",F
+RCFD5390,Loans To Foreign Governments And Official Institutions - Past Due 90 Days Or More And Still Accruing,"
+ Includes loans to foreign governments and official institutions that are past due 90 days or more and still accruing as of the report date. (Reported in item 2081.)
+
+
+NOTE:
+
+
+Reported only by",F
+RCFD5391,Loans To Foreign Governments And Official Institutions - Nonaccrual,"
+ Includes loans to foreign governments and official institutions that are in nonaccrual status as of the report date. (Reported in item 2081.)
+
+
+NOTE:
+
+
+Reported only by the FFIEC 031 and 032 ",F
+RCFD5459,All Other Loans - Past Due 30 Through 89 Days And Still Accruing, Includes all other loans that are past due 30 through 89 days and still accruing as of the report date. (Reported in  Schedule RC-C; items 2107 and 1563 for the FFIEC 031 and 032 reports; and Schedul,F
+RCFD5460,All Other Loans - Past Due 90 Days Or More And Still Accruing,"Includes all other loans that are past due 90 days or more and still accruing as of the report date. (See item 5459.)
+
+For the UBPR series; the FDIC's Data Element name is H-PDOTH90MOR.
+
+
+
+This ",F
+RCFD5461,All Other Loans - Nonaccrual,"Includes all other loans that are in nonaccrual status as of the report date. (See item 5459.)
+
+For the UBPR series; the FDIC's Data Element name is H-OTHNONACCR.
+
+This variable is used by the FDI",F
+RCFD5591,All Other Off-Balance Sheet Assets,"
+ Includes all significant types of off-balance sheet assets not covered in other items of Schedule RC-L (for  the FFIEC 031-034 reporters); for which the reporting is feasible and practicable. Exclu",F
+RCFD6164,Aggregate Amount Of All Extensions Of Credit To All Executive Officers; Directors; Principal Shareholders; And Their Related Interests,"
+ Includes the aggregate amount outstanding as of the report date; of all extensions of credit by the reporting bank  to all of its executive officers directors; and principal shareholders; and to al",F
+RCFD6165,Number Of Executive Officers; Directors; And Principal Shareholders To Whom The Amount Of All Extensions Of Credit By The Reporting Bank (Including Extensions Of Credit To Related Interests) Equals Or Exceeds The Lesser Of $500;000 Or 5 Percent Of Total Capital As Defined For This Purpose In Agency Regulations,"
+ Includes the number of executive officers; directors; and principal shareholders of the reporting bank to whom  the amount of all extensions of credit by the reporting bank outstanding as of the re",F
+RCFD6550,Commercial Real Estate; Construction; And Land Development: Commitments To Fund Loans Not Secured By Real Estate,"
+ Includes the unused portions of all commitments to extend credit for the specific purpose of financing  commercial and residential real estate activities; e.g.; acquiring; developing and renovating",F
+RCFD6558,Loans To Finance Commercial Real Estate; Construction; And Land Development Activities - Past Due 30 Through 89 Days And Still Accruing,Also; includes loans to finance commercial and residential real estate activities; e.g.; acquiring; developing and  renovating commercial and residential real estate; that are reported in items 1606; ,F
+RCFD6559,Loans To Finance Commercial Real Estate; Construction; And Land Development Activities - Past Due 90 Days Or More And Still Accruing,"
+ Includes loans to finance commercial real estate; construction; and land development activities that are  reported in Schedule RC-N; items 1252; 1255; and 5460 for the FFIEC 031 and 032 reports; an",F
+RCFD6560,Loans To Finance Commercial Real Estate; Construction; And Land Development Activities - Nonaccrual,"
+ Includes loans to finance commercial real estate; construction; and land development activities that are  reported in Schedule RC-N; items 1253; 1256; and 5461 For the FFIEC 031 and 032 reports; an",F
+RCFD8496,Amortized Cost Of Held-To-Maturity Securities Issued By States And Political Subdivisions In The U.S.,For the FFIEC 031 and FFIEC 041; report in column A the amortized cost of all securities issued by states and political subdivisions in the United States not held for trading. States and political sub,D
+RCFD8497,Fair Value Of Held-To-Maturity Securities Issued By States And Political Subdivisions In The U.S.,"
+For the FFIEC 031 and FFIEC 041; report in column B the fair value of all securities issued by states and political subdivisions in the United States not held for trading. States and political subdi",D
+RCFD8498,Amortized Cost Of Available-For-Sale Securities Issued By States And Political Subdivisions In The U.S.,"
+Beginning 3/31/01; for the FFIEC 031 and FFIEC 041; report in column C the amortized cost and of all securities issued by states and political subdivisions in the United States not held for trading.",D
+RCFD8499,Fair Value Of Available-For-Sale Securities Issued By States And Political Subdivisions In The U.S.,For the FFIEC 031 and FFIEC 041; report in column D the fair value of all securities issued by states and political subdivisions in the United States not held for trading. States and political subdivi,D
+RCFD8693,Interest Rate Futures Contracts,"
+ Includes futures contracts committing the reporting entity to purchase or sell financial instruments and whose  predominant risk characteristic is interest rate risk. Some of the more common intere",F
+RCFD8694,Foreign Exchange Futures Contracts,"
+ Includes the gross amount (stated in U.S. dollars) of all futures contracts committing the reporting entity to  purchase foreign (non-U.S.) currencies and U.S. dollar exchange and whose predominant",F
+RCFD8695,Equity Derivative Futures Contracts,"
+ Includes futures contracts committing the reporting entity to purchase or sell equity securities or instruments based on equity indexes such as the Standard and Poor's 500 or the Nikkei.
+
+NOTE:
+",F
+RCFD8696,Commodity And Other Futures Contracts,"
+ Includes the contract amount for all futures contracts committing the reporting entity to purchase or sell  commodities such as agricultural products (e.g.; wheat; coffee); precious metals (e.g.; g",F
+RCFD8697,Interest Rate Forward Contracts,"
+ Includes commitments to purchase and sell when-issued securities as forward contracts on a gross basis (except  that banks may net purchases and sales of the identical security with the same party)",F
+RCFD8698,Foreign Exchange Forward Contracts,"
+ Includes the gross amount (stated in U.S. dollars) of all forward contracts committing the reporting entity to  purchase foreign (non-U.S.) currencies and U.S. dollar exchange and whose predominant",F
+RCFD8699,Equity Derivative Forward Contracts,"
+Includes forward contracts committing the reporting entity to purchase or sell equity instruments.
+
+NOTE:
+
+Reported on Schedule RC-L for the FFIEC 031; 032; 033 and 034 reports.
+
+Reported on S",F
+RCFD8700,Commodity And Other Forward Contracts,"
+ Includes the contract amount for all forward contracts committing the reporting entity to purchase or sell  commodities such as agricultural products (e.g.; wheat; coffee); precious metals (e.g.; g",F
+RCFD8701,Written Exchange-Traded Interest Rate Option Contracts,"
+ For exchange-traded option contracts obligating the reporting entity to either purchase or sell an interest rate  futures contract and whose predominant risk characteristic is interest rate risk; t",F
+RCFD8702,Written Exchange-Traded Foreign Exchange Option Contracts,"
+ Includes the gross amount (stated in U.S. dollars) of foreign (non-U.S.) currency and U.S. dollar exchange that  the reporting entity has; for compensation; obligated itself to either purchase or s",F
+RCFD8703,Written Exchange-Traded Equity Derivative Option Contracts,"
+ Includes the contract amount for those exchange-traded option contracts where the reporting entity has obligated itself; for compensation; to purchase or sell an equity instrument or equity index.
+",F
+RCFD8704,Written Exchange-Traded Commodity And Other Exchange-Traded Option Contracts,"
+ Includes the contract amount for those exchange-traded option contracts where the reporting entity has obligated  itself; for compensation; to purchase or sell a commodity or product. Also included",F
+RCFD8705,Purchased Exchange-Traded Interest Rate Option Contracts,"
+
+ Purchased options. Reported is the aggregate par value of the financial instruments or commodities that the  reporting bank has; for a fee or premium; purchased the right to either purchase or se",F
+RCFD8706,Purchased Exchange-Traded Foreign Exchange Option Contracts,"
+ Includes the gross amount (stated in U.S. dollars) of foreign (non-U.S.) currency and U.S. dollar exchange that  the reporting entity has; for a fee; purchased the right to either purchase or sell ",F
+RCFD8707,Purchased Exchange-Traded Equity Derivative Option Contracts,"
+ Includes the contract amount for those exchange-traded option contracts where the reporting entity has; for a fee; purchased the right to purchase or sell an equity instrument or equity index.
+
+N",F
+RCFD8708,Purchased Exchange-Traded Commodity And Other Exchange-Traded Option Contracts,"
+ Includes the contract amount for those exchange-traded option contracts where the reporting entity has; for a fee;  purchased the right to purchase or sell a commodity or product. Also included are",F
+RCFD8709,Written Otc Interest Rate Option Contracts,"
+ Interest rate options includes options to purchase and sell interest-bearing financial instruments and whose  predominant risk characteristic is interest rate risk as well as contracts known as cap",F
+RCFD8710,Written Otc Foreign Exchange Option Contracts,"
+ A written currency option contract conveys the obligation to exchange two different currencies at a specified  exchange rate. Includes the gross amount (stated in U.S. dollars) of foreign (non-U.S.",F
+RCFD8711,Written Otc Equity Derivative Option Contracts,"
+ Includes the contract amount for those OTC option contracts where the reporting entity has obligated itself; for compensation; to purchase or sell an equity instrument or equity index.
+
+NOTE:
+
+",F
+RCFD8712,Written Otc Commodity And Other Otc Option Contracts,"
+&#x0D; Includes the contract amount for those OTC option contracts where the reporting entity has obligated itself; for  compensation; to purchase or sell a commodity or product. Included are any oth",F
+RCFD8713,Purchased Otc Interest Rate Option Contracts,"
+ Interest rate options includes options to purchase and sell interest-bearing financial instruments and whose  predominant risk characteristic is interest rate risk as well as contracts known as cap",F
+RCFD8714,Purchased Otc Foreign Exchange Option Contracts,"
+ Includes the gross amount (stated in U.S. dollars) of foreign (non-U.S.) currency and U.S. dollar exchange that  the reporting entity has; for a fee; purchased the right to either purchase or sell ",F
+RCFD8715,Purchased Otc Equity Derivative Option Contracts,"
+ Includes the contract amount of those OTC option contracts where the reporting entity has; for a fee; purchased the right to purchase or sell an equity instrument or equity index.
+
+NOTE:
+
+Repor",F
+RCFD8716,Purchased Otc Commodity And Other Otc Option Contracts,"
+ Includes the contract amount for those OTC option contracts where the reporting entity has; for a fee; purchased  the right to purchase or sell a commodity or product. Included are any other purcha",F
+RCFD8719,Equity Swaps,"
+ Includes the notional amount of all outstanding equity or equity index swaps; whether the swap is undertaken by the reporting entity to hedge its own equity-based risk; in an intermediary capacity;",F
+RCFD8720,Commodity And Other Swaps,"
+ Includes the notional principal amount of all other swap agreements that are not reportable as either interest rate;  foreign exchange; or equity derivative contracts in items 3450; 3826 or 8719. T",F
+RCFD8723,Total Gross Notional Amount Of Equity Derivative Contracts Held For Trading,"
+ Includes the total notional amount or par value of those off-balance-sheet equity derivative contracts reported in items 8695; 8699; 8703; 8707; 8711; 8715 and 8719 that are held for trading purpos",F
+RCFD8724,Total Gross Notional Amount Of Commodity And Other Derivative Contracts Held For Trading,"
+ Includes the total notional amount or par value of those off-balance-sheet  commodity and other derivative  contracts reported in items 8696; 8700; 8704; 8708; 8712; 8716 and 8720 that are held for",F
+RCFD8725,Total Gross Notional Amount Of Interest Rate Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market,"
+ Includes the total notional amount or par value of those interest rate derivative contracts reported in items 8693;  8697; 8701; 8705; 8709; 8713 and 3450 that are held for purposes other than trad",F
+RCFD8726,Total Gross Notional Amount Of Foreign Exchange Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market,"
+
+NOTE:
+
+Reported on Schedule RC-L for the FFIEC 031; 032; 033; and 034 reports.
+
+ Reported on Schedule L for the FFIEC 002 report. Also excludes all transactions with related depository institu",F
+RCFD8727,Total Gross Notional Amount Of Equity Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market, Includes the total notional amount or par value of those equity derivative contracts reported in items 8695; 8699;  8703; 8707; 8711; 8715 and 8719 that are held for purposes other than trading and t,F
+RCFD8728,Total Gross Notional Amount Of Commodity And Other Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market,"
+ Includes the total notional amount or par value of those commodity and other derivative contracts reported in  items 8696; 8700; 8704; 8708; 8712; 8716 and 8720 that are held for purposes other tha",F
+RCFD8733,Gross Positive Fair Value Of Interest Rate Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Interest Rate Derivative Contracts Held For Trading (A126)' with positive fair values.
+
+NOTE:
+
+Beginning 3/31/01; for the FFIEC ",F
+RCFD8734,Gross Positive Fair Value Of Foreign Exchange Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Foreign Exchange Derivative Contracts Held For Trading (A127)' with positive fair values.
+
+NOTE:
+
+Beginning 3/31/01; for the FFI",F
+RCFD8735,Gross Positive Fair Value Of Equity Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Equity Derivative Contracts Held For Trading (8723)' with positive fair values.
+
+NOTE:
+
+Beginning 3/31/01; for the FFIEC 041 rep",F
+RCFD8736,Gross Positive Fair Value Of Commodity And Other Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Commodity And Other Derivative Contracts Held For Trading (8724)' with positive fair values.
+
+NOTE:
+
+Beginning 3/31/01; for the ",F
+RCFD8737,Gross Negative Fair Value Of Interest Rate Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Interest Rate Derivative Contracts Held For  Trading (A126)' with negative fair values. The total fair value is reported as an absol",F
+RCFD8738,Gross Negative Fair Value Of Foreign Exchange Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Foreign Exchange Derivative Contracts Held  For Trading (A127)' with negative fair values. The total fair value is reported as an ab",F
+RCFD8739,Gross Negative Fair Value Of Equity Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Equity Derivative Contracts Held For Trading  (8723)' with negative fair values. The total fair value is reported as an absolute val",F
+RCFD8740,Gross Negative Fair Value Of Commodity And Other Derivative Contracts Held For Trading,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Commodity And Other Derivative Contracts  Held For Trading (8724)' with negative fair values. The total fair value is reported as an",F
+RCFD8741,Gross Positive Fair Value Of Interest Rate Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Interest Rate Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market (8725)' with positive fair value",F
+RCFD8742,Gross Positive Fair Value Of Foreign Exchange Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Foreign Exchange Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market (8726)' with positive fair va",F
+RCFD8743,Gross Positive Fair Value Of Equity Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Equity Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market (8727)' with positive fair values.
+
+N",F
+RCFD8744,Gross Positive Fair Value Of Commodity And Other Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Commodity And Other Derivative Contracts Held For Purposes Other Than Trading: Contracts Marked To Market (8728)' with positive fair",F
+RCFD8745,Gross Negative Fair Value Of Interest Rate Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Interest Rate Derivative Contracts Held For  Purposes Other Than Trading: Contracts Marked To Market (8725)' with negative fair valu",F
+RCFD8746,Gross Negative Fair Value Of Foreign Exchange Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Foreign Exchange Derivative Contracts Held  For Purposes Other Than Trading: Contracts Marked To Market (8726)' with negative fair v",F
+RCFD8747,Gross Negative Fair Value Of Equity Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Equity Derivative Contracts Held For Purposes  Other Than Trading: Contracts Marked To Market (8727)' with negative fair values. The",F
+RCFD8748,Gross Negative Fair Value Of Commodity And Other Derivative Contracts Held For Purposes Other Than Trading That Are Marked To Market,"
+ Includes the total fair value of 'Total Gross Notional Amount Of Commodity And Other Derivative Contracts  Held For Purposes Other Than Trading: Contracts Marked To Market (8728)' with negative fai",F
+RCFD8765,Spot Foreign Exchange Contracts,"
+&#x0D; Includes the gross amount (stated in U.S. dollars) of all spot contracts committing the reporting entity to purchase  foreign (non-U.S.) currencies and U.S. dollar exchange that are outstandin",F
+RCFD8782,Amortized Cost Of Structured Notes, Includes the amortized cost of all structured notes included in the held-to-maturity and available-for-sale  accounts. The amortized cost of these securities is reported in columns A and C of the bod,F
+RCFD8783,Fair Value Of Structured Notes,"
+
+NOTE:
+
+
+Reported in Schedule RC-B for the FFIEC 031; 032; 033 and 034 reports.
+
+
+ Reported in Schedule RAL for the FFIEC 002 report. Also excludes all liabilities to related depository insti",F
+RCFDA126,Total Gross Notional Amount Of Interest Rate Derivative Contracts Held For Trading,"
+ Includes the total notional amount or par value of those off-balance-sheet interest rate derivative contracts  reported in items 8693; 8697; 8701; 8705; 8709; 8713 and 3450 that are held for tradin",F
+RCFDA127,Total Gross Notional Amount Of Foreign Exchange Derivative Contracts Held For Trading,"
+ Includes the total notional amount or par value of those off-balance-sheet foreign exchange derivative contracts  reported in items 8694; 8698; 8702; 8706; 8710; 8714 and 3826 that are held for tra",F
+RCFDA130,Other Components Of Equity Capital,"The amount on this line; in most cases; will be negative because these items typically reduce equity capital.&#x0D;
+&#x0D;
+COMPARABILITY:&#x0D;
+&#x0D;
+Beginning 12/31/02; reported on Schedule BS for t",F
+RCFDA222,Excess Allowance For Loan And Lease Losses,As of 12/31/2023; ASU 2016-13 'Measurement of Credit Losses on Financial Instruments;' was effective for all institutions.&#x0D;For banks that are subject to the market risk capital guidelines; report,F
+RCFDA247,Fixed Rate And Floating Rate Loans And Leases With A Remaining Maturity Of One Year Or Less,Includes all fixed rate and floating rate loans and all leases with a remaining maturity of one year or less. The  fixed rate loans and leases included are also reported in items reported in Schedule ,F
+RCFDA248,Fixed Rate And Floating Rate Debt Securities With A Remaining Maturity Of One Year Or Less,Includes all fixed rate and floating rate debt securities with a remaining maturity of one year or less. For  held-to-maturity debt securities with a remaining maturity of one year or less; the amorti,F
+RCFDA549,Securities Issued By The U.S. Treasury; U.S. Government Agencies; And States And Political Subdivisions In The U.S.; Other Non-Mortgage Debt Securities; And Mortgage Pass-Through Securities Other Than Those Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Three Months Of Less,"
+ Includes the amount of the bank's fixed rate debt securities other than mortgage pass-through securities backed  by closed-end first lien 1-4 family residential mortgages with remaining maturities ",F
+RCFDA550,Securities Issued By The U.S. Treasury; U.S. Government Agencies; And States And Political Subdivisions In The U.S.; Other Non-Mortgage Debt Securities; And Mortgage Pass-Through Securities Other Than Those Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over Three Months Through 12 Months,"
+ Includes the amount of the bank's fixed rate debt securities other than mortgage pass-through securities backed  by closed-end first lien 1-4 family residential mortgages with remaining maturities ",F
+RCFDA551,Securities Issued By The U.S. Treasury; U.S. Government Agencies; And States And Political Subdivisions In The U.S.; Other Non-Mortgage Debt Securities; And Mortgage Pass-Through Securities Other Than Those Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over One Year Through Three Years,"
+ Includes the amount of the bank's fixed rate debt securities other than mortgage pass-through securities backed  by closed-end first lien 1-4 family residential mortgages with remaining maturities ",F
+RCFDA552,Securities Issued By The U.S. Treasury; U.S. Government Agencies; And States And Political Subdivisions In The U.S.; Other Non-Mortgage Debt Securities; And Mortgage Pass-Through Securities Other Than Those Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over Three Years Through Five Years,"
+ Includes the amount of the bank's fixed rate debt securities other than mortgage pass-through securities backed  by closed-end first lien 1-4 family residential mortgages with remaining maturities ",F
+RCFDA553,Securities Issued By The U.S. Treasury; U.S. Government Agencies; And States And Political Subdivisions In The U.S.; Other Non-Mortgage Debt Securities; And Mortgage Pass-Through Securities Other Than Those Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over Five Years Through Fifteen Years,"
+ Includes the amount of the bank's fixed rate debt securities other than mortgage pass-through securities backed  by closed-end first lien 1-4 family residential mortgages with remaining maturities ",F
+RCFDA554,Securities Issued By The U.S. Treasury; U.S. Government Agencies; And States And Political Subdivisions In The U.S.; Other Non-Mortgage Debt Securities; And Mortgage Pass-Through Securities Other Than Those Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Of Over Ffteen Years ,"
+ Includes the amount of the bank's fixed rate debt securities other than mortgage pass-through securities backed  by closed-end first lien 1-4 family residential mortgages with remaining maturities ",F
+RCFDA555,Mortgage Pass-Through Securities Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Three Months Or Less,"
+
+NOTE:
+
+Beginning 3/31/01; the last part of title changed from 'Repricing Frequency of Three Months or Less' to 'Next Repricing Date of Three Months or Less'.  Also; excludes mortgage pass-throug",F
+RCFDA556,Mortgage Pass-Through Securities Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over Three Months Through 12 Months, Includes the amount of the bank's fixed rate mortgage pass-through securities backed by closed-end first lien  1-4 family residential mortgages with remaining maturities (without regard to repayment ,F
+RCFDA557,Mortgage Pass-Through Securities Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over One Year Through Three Years,"
+ Includes the amount of the bank's fixed rate mortgage pass-through securities backed by closed-end first lien  1-4 family residential mortgages with remaining maturities (withourt regard to repayme",F
+RCFDA558,Mortgage Pass-Through Securities Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over Three Years Through Five Years,"
+ Includes the amount of the bank's fixed rate mortgage pass-through securities backed by closed-end first lien  1-4 family residential mortgages with remaining maturities (without regard to repaymen",F
+RCFDA559,Mortgage Pass-Through Securities Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over Five Years Through 15 Years,"
+ Includes the amount of the bank's fixed rate mortgage pass-through securities backed by closed-end first lien  1-4 family residential mortgages with remaining maturities (without regard to repaymen",F
+RCFDA560,Mortgage Pass-Through Securities Backed By Closed-End First Lien 1-4 Family Residential Mortgages With A Remaining Maturity Or Next Repricing Date Of Over 15 Years,"
+ Includes the amount of the bank's fixed rate mortgage pass-through securities backed by closed-end first lien  1-4 family residential mortgages with remaining maturities (without regard to repaymen",F
+RCFDA561,Other Mortgage-Backed Securities (Include Cmos; Remics; And Stripped Mbs) With An Expected Average Life Of Three Years Or Less,"
+ Includes the bank's holdings of other mortgage-backed securities with an expected weighted average life of three years or less as of the report date.  Include both fixed rate and floating rate secu",F
+RCFDA562,Other Mortgage-Backed Securities (Include Cmos; Remics; And Stripped Mbs) With An Expected Average Life Of Over Three Years,"
+ Includes the bank's holdings of other mortgage-backed securities with an expected weighted average life of  over three years or as of the report date.  Include both fixed rate and floating rate sec",F
+RCFDA570,All Loans And Leases Other Than Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Three Months Or Less,"
+ Includes the amount of the bank's fixed rate loans and leases; other than closed-end loans secured by first liens on  1-4 family residential properties (in domestic offices) with remaining maturiti",F
+RCFDA571,All Loans And Leases Other Than Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over Three Months Through 12 Months,"
+ Includes the amount of the bank's fixed rate loans and leases; other than closed-end loans secured by first liens on  1-4 family residential properties (in domestic offices) with remaining maturiti",F
+RCFDA572,All Loans And Leases Other Than Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over One Year Through Three Years,"
+
+NOTE:
+
+Beginning 3/31/01; part of title 'Or Repricing Frequency' changed to 'Or Next Repricing Date'.
+
+Reported on Schedule RC-C Loans and Leases for the FFIEC 031; 032; 033 and 034 reports.
+",F
+RCFDA573,All Loans And Leases Other Than Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over Three Years Through Five Years, Includes the amount of the bank's fixed rate loans and leases; other than closed-end loans secured by first liens on  1-4 family residential properties (in domestic offices) with remaining maturities,F
+RCFDA574,All Loans And Leases Other Than Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over Five Years Through 15 Years,"
+
+NOTE:
+
+Beginning 3/31/01; part of title 'Or Repricing Frequency' changed to 'Or Next Repricing Date'.
+
+Reported on Schedule RC-C Loans and Leases for the FFIEC 031; 032; 033 and 034 reports.
+",F
+RCFDA575,All Loans And Leases Other Than Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over 15 Years, Includes the amount of bank's fixed rate loans and leases other than closed-end  loans secured by first liens on  1-4 family residential properties (in domestic offices) with remaining maturities (wi,F
+RCFDA589,Interest Rate Swaps Where The Bank Has Agreed To Pay A Fixed Rate,"
+ Includes the notional amount of all outstanding interest rate swaps included in Schedule RC-L; items 8725 and  8729; on which the reporting bank is obligated to pay a fixed rate. The interest rate ",F
+RCFDA590,Estimated Fair Value Of Mortgage Servicing Assets,"
+ Includes the estimated fair value of the capitalized mortgage servicing assets reported in Schedule RC-M; item no. 3164.
+
+ For purposes of this item; the reporting bank should determine the fair ",F
+RCFDA591,Outstanding Principal Balance Of Loans Other Than 1-4 Family Residential Mortgage Loans That Are Serviced For Others,"
+ If the reporting bank services for other loans (other than 1-4 family residential mortgage loans) with an aggregate  unpaid principal balance of more than $10 million and this aggregate unpaid prin",F
+RCFDB528,Loans And Leases; Net Of Unearned Income - Totals,Includes the amount of loans and leases held for sale at the lower of cost or fair value. The amount by which cost exceeds fair value; if any; shall be accounted for as a valuation allowance. These lo,F
+RCFDB529,Loans And Leases; Net Of Unearned Income And Allowance,"Includes the amount derived by subtracting Schedule RC; item 4.c (3123); from Schedule RC; item 4.b (B528).
+
+NOTE:
+
+Item was RCFD2125 on the Call Report and included reserves for historical data. ",F
+RCFDB530,Accumulated Other Comprehensive Income,For series CUSA includes any items of other comprehensive income that are not already included in items A155 or B498. In addition to items A155 and B498; another example of Other Comprehensive Income ,F
+RCFDB532,Loans To U.S. Branches And Agencies Of Foreign Banks,"Report all loans to and acceptances of U.S. branches and agencies of foreign banks.
+
+NOTE:For the FFIEC 002; report in the column B loans to IBSs of nonrelated U.S. branches and agencies of foreign ",F
+RCFDB533,Loans To Other Commercial Banks In The U.S.,"Include in column A all loans to and acceptances of U.S. branches and agencies of foreign banks.
+
+NOTE:For the FFIEC 002 report; in the IBF column; report in column B (and include in column A) all l",F
+RCFDB534,Loans To Other Depository Institutions In The U.S.,"Report (on the FFIEC 031; in columns A and B; on the FFIEC 041; in column A; as appropriate) loans to and acceptances of depository institutions; other than commercial banks; domiciled in the U.S. 
+",F
+RCFDB536,Loans To Foreign Branches Of Other U.S. Banks,"Include in column A all loans to and acceptances of foreign branches of other U.S. banks.
+
+NOTE:For the FFIEC 002; report in columns A and B; as appropriate; all loans to and acceptance of foreign b",F
+RCFDB537,Loans To Other Banks In Foreign Countries,"Include in column A all loans to and acceptances of banks in foreign countries; other than foreign-domiciled branches of other U.S. banks.
+
+NOTE:For the FFIEC 002; report in columns A and B; as appr",F
+RCFDB538,Loans To Individuals For Household; Family; And Other Personal Expenditures (I.E.; Consumer Loans)(Includes Purchased Paper): Credit Cards,Report (on the FFIEC 031; in columns A and B; on the FFIEC 041; in column B; as appropriate) all extensions of credit to individuals for household; family; and other personal expenditures arising from,F
+RCFDB539,Loans To Individuals For Household; Family; And Other Personal Expenditures (I.E.; Consumer Loans)(Includes Purchased Paper): Other Revolving Credit Plans,Report (on the FFIEC 031; in columns A and B; on the FFIEC 041; in column B; as appropriate) all extensions of credit to individuals for household; family; and other personal expenditures arising from,F
+RCFDB556,Accrued Interest Receivable,"Includes the amount of interest earned or accrued on earning assets and applicable to  current or prior periods that has not yet been collected. 
+
+For series 'RCFD' and 'RCON' beginning March; 2003;",F
+RCFDB558,U.S. Treasury Securities And U.S. Government Agency Obligations (Excluding Mortgage-Backed Securities),"      
+
+Report the quarterly average of the amortized cost of the bank's held-to-maturity and available-for-sale U.S. Treasury and Government agency obligations (as defined for Schedule RC-B; items ",F
+RCFDB559,Mortgage-Backed Securities,"        
+
+Report the quarterly average of the amortized cost of the bank's held-to-maturity and available-for-sale mortgage-backed securities (as defined for Schedule RC-B; item 4; columns A and C).",F
+RCFDB560,All Other Securities,"      
+
+Report the quarterly average of the amortized cost of the bank's held-to-maturity and available-for-sale securities issued by states and political subdivisions in the U.S.; asset-backed secu",F
+RCFDB570,Assets Under The Reporting Bank'S Management In Proprietary Mutual Funds And Annuities,"Report the amount of assets (stated in U.S. dollars) held by mutual funds and annuities as of the report date for which the reporting bank or a subsidiary of the bank acts as investment adviser. 
+
+A",F
+RCFDB571,Other Borrowings: With A Remaining Maturity Of One Year Or Less,"       
+Report the total amount of the reporting bank's 'Other borrowings' with a remaining maturity of one year or less. Include in this item those overdrawn 'due from' balances with depository inst",F
+RCFDB575,Loans To Individuals For Household; Family; And Other Personal Expenditures: Credit Cards - Past Due 30 Through 89 Days And Still Accruing,"       
+Report in column A the amount of all extensions of credit to individuals for household; family; and other personal expenditures arising from credit cards; as defined for Schedule RC-C; part I",F
+RCFDB576,Loans To Individuals For Household; Family; And Other Personal Expenditures: Credit Cards - Past Due 90 Days Or More And Still Accruing,"       
+Report in column B the amount of all extensions of credit to individuals for household; family; and other personal expenditures arising from credit cards; as defined for Schedule RC-C; part I",F
+RCFDB577,Loans To Individuals For Household; Family; And Other Personal Expenditures: Credit Cards - Nonaccrual,"       
+Report in column C the amount of all extensions of credit to individuals for household; family; and other personal expenditures arising from credit cards; as defined for Schedule RC-C; part I",F
+RCFDB704,Risk-Weighted Assets Before Deductions For Excess Allowance For Loan And Lease Losses And Allocated Transfer Risk Reserve - 100%,"As of 12/31/2023; ASU 2016-13 'Measurement of Credit Losses on Financial Instruments;' was effective for all institutions.&#x0D;Report the sum of item 57; columns C through F; and item 58.&#x0D;
+&#x0D",F
+RCFDB804,Outstanding Principal Balance Of Assets Serviced For Others (Memorandum Item 2.C Is To Be Completed If The Balance Is More Than $10 Million): 1-4 Family Residential Mortgages Serviced With Recourse Or Oher Servicer-Provided Credit Enhancements,"       
+
+Includes the outstanding principal balance of 1-to-4 family residential mortgage loans that the reporting bank services for others under servicing arrangements in which the reporting bank a",F
+RCFDB805,Outstanding Principal Balance Of Assets Serviced For Others (Memorandum Item 2.C Is To Be Completed If The Balance Is More Than $10 Million): 1-4 Family Residential Mortgages Serviced With No Recourse  Or Other Servicer-Provided Credit Enhancements,"      
+
+Includes the outstanding principal balance of 1-to-4 family residential mortgage loans that the reporting bank services for others under servicing arrangements in which the reporting bank do",F
+RCFDB837,Loans Secured By Real Estate To Non-U.S. Addressees (Domicile),Report the amount of loans secured by real estate to non-U.S. addressees that are included in Schedule RC-C; part I; items 1.a through 1.e; column B; on the FFIEC 041; item 1; column A; on the FFIEC 0,F
+RCFDB838,Amortized Cost Of Held-To-Maturity Asset-Backed Securities: Credit Card Receivables,"      
+Report in column A the amortized cost of all held-to-maturity asset-backed securities collateralized by credit card receivables; i.e.; extensions of credit to individuals for household; family",F
+RCFDB839,Fair Value Of Held-To-Maturity Asset-Backed Securities: Credit Card Receivables,"   
+Report in column B the fair value of all held-to-maturity asset-backed securities collateralized by credit card receivables; i.e.; extensions of credit to individuals for household; family; and o",F
+RCFDB840,Amortized Cost Of Available-For-Sale Asset-Backed Securities: Credit Card Receivables,"   
+Report in column C the amortized cost of all available-for-sale asset-backed securities collateralized by credit card receivables; i.e.; extensions of credit to individuals for household; family;",F
+RCFDB841,Fair Value Of Available-For-Sale Asset-Backed Securities: Credit Card Receivables,"   
+Report in column D the fair value of all available-for-sale asset-backed securities collateralized by credit card receivables; i.e.; extensions of credit to individuals for household; family; and",F
+RCFDB842,Amortized Cost Of Held-To-Maturity Asset-Backed Securities: Home Equity Lines,"   
+Report in column A the amortized cost and of all held-to-maturity asset-backed securities collateralized by home equity lines of credit; i.e.; revolving; open-end lines of credit secured by 1-to-",F
+RCFDB843,Fair Value Of Held-To-Maturity Asset-Backed Securities: Home Equity Lines,"   
+Report in column B the fair value of all held-to-maturity asset-backed securities collateralized by home equity lines of credit; i.e.; revolving; open-end lines of credit secured by 1-to-4 family",F
+RCFDB844,Amortized Cost Of Available-For-Sale Asset-Backed Securities: Home Equity Lines,"   
+Report in column C the amortized cost of all available-for-sale asset-backed securities collateralized by home equity lines of credit; i.e.; revolving; open-end lines of credit secured by 1-to-4 ",F
+RCFDB845,Fair Value Of Available-For-Sale Asset-Backed Securities: Home Equity Lines,"   
+Report in column D the fair value of all available-for-sale asset-backed securities collateralized by home equity lines of credit; i.e.; revolving; open-end lines of credit secured by 1-to-4 fami",F
+RCFDB846,Amortized Cost Of Held-To-Maturity Asset-Backed Securities: Auto Loans,Report in  column A the amortized cost of all held-to-maturity asset-backed securities collateralized by automobile loans; i.e.; loans to individuals for the purpose of purchasing private passenger ve,F
+RCFDB847,Fair Value Of Held-To-Maturity Asset-Backed Securities: Auto Loans,"   
+Report in column B the fair value of all held-to-maturity asset-backed securities collateralized by automobile loans; i.e.; loans to individuals for the purpose of purchasing private passenger ve",F
+RCFDB848,Amortized Cost Of Available-For-Sale Asset-Backed Securities: Auto Loans,"   
+Report in column C the amortized cost of all available-for-sale asset-backed securities collateralized by automobile loans; i.e.; loans to individuals for the purpose of purchasing private passen",F
+RCFDB849,Fair Value Of Available-For-Sale Asset-Backed Securities: Auto Loans,"   
+Report in column D the fair value of all available-for-sale asset-backed securities collateralized by automobile loans; i.e.; loans to individuals for the purpose of purchasing private passenger ",F
+RCFDB850,Amortized Cost Of Held-To-Maturity Asset-Backed Securities: Other Consumer Loans,"   
+Report in column A the amortized cost of all held-to-maturity asset-backed securities collateralized by other consumer loans; i.e.; loans to individuals for household; family; and other personal ",F
+RCFDB851,Fair Value Of Held-To-Maturity Asset-Backed Securities: Other Consumer Loans,"   
+Report in column B the fair value of all held-to-maturity asset-backed securities collateralized by other consumer loans; i.e.; loans to individuals for household; family; and other personal expe",F
+RCFDB852,Amortized Cost Of Available-For-Sale Asset-Backed Securities: Other Consumer Loans,"   
+Report in column C the amortized cost of all available-for-sale asset-backed securities collateralized by other consumer loans; i.e.; loans to individuals for household; family; and other persona",F
+RCFDB853,Fair Value Of Available-For-Sale Asset-Backed Securities: Other Consumer Loans,"   
+Report in column D the fair value of all available-for-sale asset-backed securities collateralized by other consumer loans; i.e.; loans to individuals for household; family; and other personal ex",F
+RCFDB854,Amortized Cost Of Held-To-Maturity Asset-Backed Securities: Commercial And Industrial Loans,"   
+Report in column A the amortized cost of all held-to-maturity asset-backed securities collateralized by commercial and industrial loans; i.e.; loans for commercial and industrial purposes to sole",F
+RCFDB855,Fair Value Of Held-To-Maturity Asset-Backed Securities: Commercial And Industrial Loans,"   
+Report in column B the fair value of all held-to-maturity asset-backed securities collateralized by commercial and industrial loans; i.e.; loans for commercial and industrial purposes to sole pro",F
+RCFDB856,Amortized Cost Of Available-For-Sale Asset-Backed Securities: Commercial And Industrial Loans,"   
+Report in column C the amortized cost and of all available-for-sale asset-backed securities collateralized by commercial and industrial loans; i.e.; loans for commercial and industrial purposes t",F
+RCFDB857,Fair Value Of Available-For-Sale Asset-Backed Securities: Commercial And Industrial Loans,"   
+Report in column D the fair value of all available-for-sale asset-backed securities collateralized by commercial and industrial loans; i.e.; loans for commercial and industrial purposes to sole p",F
+RCFDB858,Amortized Cost Of Held-To-Maturity Asset-Backed Securities: Other,"   
+Report in column A the amortized cost of all held-to-maturity asset-backed securities collateralized by non-mortgage loans other than those described in Schedule RC-B; items 5.a through 5.e; abov",F
+RCFDB859,Fair Value Of Held-To-Maturity Asset-Backed Securities: Other,"   
+Report in column B the fair value of all held-to-maturity asset-backed securities collateralized by non-mortgage loans other than those described in Schedule RC-B; items 5.a through 5.e; above; i",F
+RCFDB860,Amortized Cost Of Available-For-Sale Asset-Backed Securities: Other,"   
+Report in column C the amortized cost of all available-for-sale asset-backed securities collateralized by non-mortgage loans other than those described in Schedule RC-B; items 5.a through 5.e; ab",F
+RCFDB861,Fair Value Of Available-For-Sale Asset-Backed Securities: Other,"   
+Report in column D the fair value of all available-for-sale asset-backed securities collateralized by non-mortgage loans other than those described in Schedule RC-B; items 5.a through 5.e; above;",F
+RCFDC010,Derivatives With A Position Fair Value Held For Purposes Other Than Trading," 
+
+Report the amount of all other assets (other than those reported in Schedule RC-F; items 1; 2; 3; and 4) that cannot properly be reported in Schedule RC; items 1 through 10.
+
+ 
+
+Includes as a",F
+RCFN2133,Total Ibf Assets Of The Consolidated Bank,"
+&#x0D; Includes the total amount outstanding of assets of the consolidated bank's IBFs that are included in 'Total Assets (2170)'.
+&#x0D;
+&#x0D; For the IBFW series; includes the sum of 'Loans to and",F
+RCFN2200,Total Deposits,"Includes the sum of 'Total Transaction Accounts (2215)'; plus 'Nontransaction Savings Deposits (2389)'; plus 'Total Time Deposits (2514))'. &#x0D;
+&#x0D;
+Total deposits as defined by the Federal Depos",F
+RCFN2625,Deposits In Foreign Offices - Deposits Of Foreign Banks (Including U.S. Branches And Agencies Of Foreign Banks; Including Their Ibfs),"
+ Includes all balances in foreign offices of the reporting bank standing to the credit of banks headquartered and  chartered in foreign countries. Also includes both U.S. and non-U.S. branches of fo",F
+RCFN2650,Deposits Of Foreign Governments And Official Institutions; Central Banks; And International Institutions, Total demand and time deposits of central banks; foreign development banks; treasuries; exchange control  offices; stabilization funds; and such international institutions as International Bank for R,D
+RCFN2898,Total Ibf Liabilities,"
+ Includes the total amount outstanding of all liabilities of the consolidated bank's IBFs that are included in 'Total Liabilities (2948)'.
+
+COMPARABILITY:
+
+Prior to 3/31/84; includes the sum of ",F
+RCFN3360,Quarterly Average Of Total Loans,"The quarterly average of 'Total Loans; Net of Unearned Income' 
+
+The amounts averaged are those outstanding at the close of business for each day for the calendar quarter or an  average of the balan",F
+RCFN3404,Quarterly Average Of Interest-Bearing Deposits In Foreign Offices; Edge And Agreement Subsidiaries; And Ibfs,"
+Includes the quarterly average for interest-bearing deposits in foreign offices; Edge and Agreement subsidiaries; and IBFs as defined in 'Interest-Bearing (6636)'.
+
+NOTE:
+
+Reported on Schedule H",F
+RCFN5513,All Other Real Estate Owned: In Foreign Offices,"
+Includes the net book value of all other real estate owned which is held in foreign offices of the reporting bank.
+
+NOTE:
+
+Reported in Schedule RC-M for the FFIEC 031 report.
+
+
+ 
+ BAGF Origi",F
+RCFN6631,Deposits: Noninterest-Bearing,"Includes the amount of all noninterest-bearing deposits.
+
+COMPARABILITY:
+
+Beginning 9/30/84; includes total demand deposits and noninterest-bearing time and savings deposits.
+
+",F
+RCFN6636,Total Interest-Bearing Deposits In Foreign And Domestic Offices, The dollar amount (in thousands) of 'Time Certificates Of Deposit Of $100;000 Or More (6645)' held in foreign  offices of the reporting bank. The term 'foreign office' includes all branches of the re,F
+RCFNA245,Time Deposits In Foreign Offices With A Remaining Maturity Of One Year Or Less,Includes all time deposits in foreign offices with remaining maturities of one year or less. The time deposits  included in this item are also reported in Schedule RC-E; Part II; item 2200 (item 7) fo,F
+RCFNB553,Deposits Of: Individuals; Partnerships; And Corporations,"      
+Includes all balances in foreign offices standing to the credit of individuals; partnerships; and corporations (as defined for Schedule RC-E; part I; item 1). Report all certified and official",F
+RCFNB554,Deposits Of: U.S. Banks (Including Ibfs And Foreign Branches Of U.S. Banks) And Other U.S. Depository Institutions,"      
+Report all deposit balances in foreign offices of the reporting bank standing to the credit of banks and other depository institutions headquartered and chartered in the United States. Include",F
+RCFNB555,Deposits Of: U.S. Government And States And Political Subdivisions In The U.S.,"      
+Includes all balances in foreign offices standing to the credit of the U.S. Government and states and political subdivisions in the U.S. (as defined for Schedule RC-E; part I; items 2 and 3).
+",F
+RCFNB572,Loans Secured By Real Estate: In Foreign Offices - Past Due 30 Through 89 Days And Still Accruing,"       
+Report in column A the amount of all loans secured by real estate in foreign offices; as defined for Schedule RC-C; part I; item 1; that are past due 30 days or more and are still accruing as",F
+RCFNB573,Loans Secured By Real Estate: In Foreign Offices - Past Due 90 Days Or More And Still Accruing,"       
+Report in column B the amount of all loans secured by real estate in foreign offices; as defined for Schedule RC-C; part I; item 1; that are past due 90 days or more and still accuring as of ",F
+RCFNB574,Loans Secured By Real Estate: In Foreign Offices - Nonaccrual,"        
+Report in column C the amount of all loans secured by real estate in foreign offices; as defined for Schedule RC-C; part I; item 1; that in nonaccrual status as of the report date.
+
+NOTE:
+",F
+RCON0010,Cash And Balances Due From Depository Institutions,Total of 'Cash Items in Process of Collection and Unposted Debits (0020)'; 'Balances Due from Banks in  Foreign Countries and Foreign Central Banks (0070)'; 'Currency and Coin (0080)'; 'Balances Due f,F
+RCON0020,Cash Items In Process Of Collection And Unposted Debits,Includes the total amount outstanding at domestic offices of cash items in process of collection and unposted debits that are immediately payable upon presentation in the United States.  See item 0022,F
+RCON0070,Balances Due From Banks In Foreign Countries And Foreign Central Banks, Includes all interest-bearing and noninterest-bearing balances from banks in foreign countries and foreign  central banks excluding any held in the reporting bank's trading accounts. Balances; as rep,F
+RCON0080,Currency And Coin,Includes the amount of currency and coin included in 'Noninterest-bearing Balances and Currency and Coin  (0081)' (reported in Schedule RC). Currency and coin includes both U.S. and foreign currency a,F
+RCON0082,Balances Due From Depository Institutions In The U.S., Includes the total balances from U.S. branches and agencies of foreign banks and all other depository institutions  in the U.S.; i.e.; (a) U.S. branches of U.S. banks; (b) savings or building and loa,D
+RCON0090,Balances Due From Federal Reserve Banks, The bank's total balances due from the Federal Reserve Bank as shown by the reporting bank's books. This  amount includes reserve and other balances. Includes the amount of reserve balances actually ,F
+RCON0211,Amortized Cost Of Held-To-Maturity U.S. Treasury Securities,Includes the amortized cost of all held-to-maturity U.S. Treasury securities not held in trading accounts.  Included are all bills; certificates of indebtedness; notes; and bonds; including those issu,F
+RCON0352,Other Nontransaction Savings Deposits (Excludes Mmda'S),"
+ Includes the total amount of all other savings deposits that are included in total nontransaction accounts. Other  savings deposits includes: (1) Deposits or accounts subject to telephone or preaut",F
+RCON1287,Fair Value Of Available-For-Sale U.S. Treasury Securities,"Includes the fair (market) value of all available-for-sale U.S. Treasury securities not held in trading accounts. (See item 0211.)
+
+NOTE:
+
+Reported in Schedule RC-B; column D for the FFIEC 031-034",F
+RCON1420,Real Estate Loans Secured By Farmland, Includes loans secured by mortgages or other liens on farm land and improvements thereon; and all other land  known to be used or usable for agricultural purposes; such as crop and livestock producti,F
+RCON1460,Real Estate Loans Secured By Multi-Family (5 Or More) Residential Properties, Includes all permanent nonfarm residential loans (such loans excludes construction and land development loans)  secured primarily by real estate as evidenced by mortgages (FHA and conventional) or ot,D
+RCON1545,Loans To Nondepository Financial Institutions And Other Loans: Other Loans: Loans For Purchasing Or Carrying Securities; Including Margin Loans, Includes: (1) all loans to brokers and dealers in securities (other than those secured by real estate and those to  depository institutions); and (2) all loans; whether secured (other than by real es,D
+RCON1590,Loans To Finance Agricultural Production And Other Loans To Farmers, Includes all loans for the purpose of financing agricultural production; whether secured or unsecured and  whether made to farm and ranch owners and operators (including tenants) or to non-farmers. O,F
+RCON1752,Historical Cost Of All Other Available-For-Sale Equity Securities,"
+ Includes the historical cost of all available-for-sale holdings of equity securities that do not have readily  determinable fair values. For purposes of this item; the historical cost (book value) ",F
+RCON1754,Held-To-Maturity Securities; Total,Includes the total amortized cost of held-to-maturity securities. (This amount includes the sum of items 0211;  items 8492(D); 8496(D); 8500(D) and 8504(D) which is reported from Schedule RC-B; column,F
+RCON1763,Commercial And Industrial Loans To U.S. Addressees,"'Commercial and Industrial Loans to U.S. Addressees (1761)' less bankers' acceptances and commercial paper.&#x0D;
+&#x0D;
+NOTE:&#x0D;
+&#x0D;
+Beginning 3/31/01; reported on the FFIEC 041 report; however",D
+RCON1764,Commercial And Industrial Loans To Non-U.S. Addressees," 'Commercial and Industrial Loans to Non-U.S. Addressees (1762)' less bankers' acceptances and commercial paper.&#x0D;
+&#x0D;
+NOTE:&#x0D;
+&#x0D;
+Beginning 3/31/01; reported on the FFIEC 041 report; ho",D
+RCON1773,Available-For-Sale Debt Securities (From Schedule Rc-B; Column D),Includes the total fair value of available-for-sale securities. (This amount includes the sum of items 1287; items 8495(D); 8499(D); 8503(D) and 8507(D) which is reported from Schedule RC-B; column D ,F
+RCON1797,Revolving; Open-End Loans Secured By 1-4 Family Residential Properties And Extended Under Lines Of Credit,Includes the amount outstanding of loans extended under revolving; open-end lines of credit secured by 1-4  family residential properties. These lines of credit; commonly referred to as 'home equity l,F
+RCON2081,Loans To Foreign Governments And Official Institutions,,F
+RCON2107,Obligations (Other Than Securities And Leases) Of States And Political Subdivisions In The U.S., Includes all obligations of states and political subdivisions in the United States (including those secured by real  estate); other than leases and other those obligations reported as securities issu,D
+RCON2122,Total Loans And Leases; Net Of Unearned Income,Beginning 6/30/1997; excludes holdings of commercial paper which are now reported as securities for the FR Y-11Q (BHCS) and FR Y-9SP (BHSP) report. For the FR Y-11Q (BHCS) report; also excludes the fa,F
+RCON2123,Unearned Income On Loans, Includes unearned income only to the extent that it is included in various loan items. For banks that report each  loan line net of unearned income; this item will be zero. (Unearned income includes ,F
+RCON2163,Net Due From Own Foreign Offices; Edge And Agreement Subsidiaries; And Ibfs, The position of the domestic offices of the bank relative to all of the bank's Edge and Agreement subsidiaries;  foreign branches; consolidated foreign subsidiaries; and branches in Puerto Rico and U,F
+RCON2165,Lease Financing Receivables (Net Of Unearned Income),Includes all outstanding receivable balances relating to direction and leveraged financing leases on property  acquired by the bank for leasing purposes. These balances include the estimated residual ,F
+RCON2192,Total Assets (Held In Domestic Offices),"
+ Includes total assets held in domestic offices of the reporting bank. Excludes net due from own foreign offices; Edge and Agreement subsidiaries; and IBF's.
+
+
+ 
+ BAGR Original Variable name:  T",F
+RCON2200,Total Deposits,"Includes the sum of 'Total Transaction Accounts (2215)'; plus 'Nontransaction Savings Deposits (2389)'; plus 'Total Time Deposits (2514))'. &#x0D;
+&#x0D;
+Total deposits as defined by the Federal Depos",F
+RCON2202,Total Transaction Accounts - Deposits Of U.S. Government,"
+
+ Includes all deposits of federal public funds made by or for the account of the United States or some department;  bureau; or official thereof. Also includes U.S. Treasury tax and loan accounts; ",F
+RCON2203,Total Transaction Accounts - Deposits Of States And Political Subdivisions In The U.S.,"
+ Includes all deposits of public funds standing to the credit of states; counties; municipalities; and local housing  authorities; school; irrigation; drainage; and reclamation districts; or other i",F
+RCON2210,Total Demand Deposits (See Note Below),"Includes as Demand Deposits: &#x0D;
+&#x0D;
+1. All checking accounts; including those pledged as collateral for loans or maintained as compensating balances. However; excluded are NOW accounts; which a",F
+RCON2213,Total Transaction Accounts - Deposits Of Banks In Foreign Countries,"
+ Includes all transaction accounts of banks located in foreign countries. Banks in foreign countries includes: (1)  foreign-domiciled branches of other U.S. banks; and (2) foreign-domiciled branches",F
+RCON2215,Total Transaction Accounts, Includes the sum of 'Deposits of Individuals; Partnerships; and Corporations (2201)'; 'Deposits of U.S.  Government (2202)'; 'Deposits of States and Political Subdivisions in the U.S. (2203)'; 'Depos,F
+RCON2216,Total Transaction Accounts - Deposits Of Foreign Governments And Official Institutions,"
+ Includes all deposits of foreign governments and official institutions. Excludes deposits of U.S. branches and  agencies of foreign official banking institutions; nationalized banks and other banki",F
+RCON2236,Nontransaction Deposits Of Banks In Foreign Countries," Includes the total of 'Nontransaction Deposits of Foreign Branches of Other U.S. Banks (2367)' and 'Nontransaction Deposits of Other Banks in Foreign Countries (2373)'.
+
+NOTE:
+
+Reported as a sepa",D
+RCON2365,Total Brokered Deposits,Includes the total of all brokered deposits included in 'Total Transaction Accounts (2215)' and 'Total Nontransaction Accounts (Including MMDA's) (2385)'; regardless of size or type of deposit instrum,F
+RCON2377,Total Nontransaction Accounts - Deposits Of Foreign Governments And Official Institutions,"
+ Includes all deposits of foreign governments and official institutions. (See item 2346 for the term 'nontransaction accounts'.)
+
+NOTE:
+
+Reported as a separate item for the FR 2886B report.
+
+F",F
+RCON2385,Total Nontransaction Accounts (Including Mmda'S),"Nontransaction accounts consist of:&#x0D;
+&#x0D;
+ (1)   Time certificates of deposits evidenced by an instrument providing on its face that the amount of such deposit is payable on a certain date not ",F
+RCON2520,Total Nontransaction Accounts Of United States Government,All nontransaction accounts (including MMDA's) of public moneys made by or for account of the U.S. or some  department; bureau; or official thereof. Deposits by U.S. postmasters of government funds wh,F
+RCON2530,Total Nontransaction Accounts Of States And Political Subdivisions In The U.S.,"
+&#x0D; All nontransaction accounts (including MMDA's) of public moneys standing to credit of: states; counties;  municipalities; and local housing authorities; school; irrigation; drainage; and recla",F
+RCON2941,Net Due To Own Foreign Offices; Edge And Agreement Subsidiaries; And Ibfs, The position of the domestic offices of the bank relative to all of the bank's Edge and Agreement subsidiaries;  foreign branches; consolidated foreign subsidiaries; and branches in Puerto Rico and U,F
+RCON3129,Total Liabilities,"
+ Includes total liabilities held in domestic offices of the reporting bank. Excludes net due from own foreign offices; Edge and Agreement subsidiaries; and IBF's.
+
+",F
+RCON3190,Other Borrowed Money,Includes the sum of other borrowed money 'Owned To Nonrelated Commercial Banks In The U.S. (Including  Their IBFs) (2861)'; 'Owned To Nonrelated Banks In Foreign Countries (1935)'; and 'Owned To Other,D
+RCON3360,Quarterly Average Of Total Loans,"The quarterly average of 'Total Loans; Net of Unearned Income' 
+
+The amounts averaged are those outstanding at the close of business for each day for the calendar quarter or an  average of the balan",F
+RCON3386,Quarterly Average Of Loans To Finance Agricultural Production And Other Loans To Farmers,"
+ Includes the quarterly average for 'Loans to Finance Agricultural Production and Other Loans to Farmers (1490)'.
+
+
+NOTE:
+
+
+Beginning 3/31/01; applicable only to banks filing the FFIEC 041 rep",F
+RCON3387,Quarterly Average Of Commercial And Industrial Loans,"
+Includes the quarterly average for 'Commercial and Industrial Loans (1766)'.
+
+
+
+
+For the UBPR series; the FDIC's Data Element name is H-AVGCILOANS
+ 
+ BAAQ Original Variable name:  AVGCI Formu",F
+RCON3465,Quarterly Average Of Loans Secured By 1-4 Family Residential Properties," Includes the quarterly average (on a fully consolidated basis) for residential real estate loans as defined in 'Loans Secured by 1-4 Family Residential Properties (1430)'.
+
+
+NOTE:
+
+
+This item i",F
+RCON3466,Quarterly Average Of All Other Loans Secured By Real Estate, Includes the quarterly average (on a fully consolidated basis) for all other real estate loans as defined in  'Construction and Land Development Loans (1415)'; 'Loans Secured by Multi-Family (5 or Mo,F
+RCON3485,Transaction Accounts (In Domestic Offices) (Now Accounts; Ats Accounts; And Telephone And Preauthorized Transfer Accounts) - Quarterly Average,"
+ Includes the quarterly average for the three interest-bearing categories of transaction accounts: NOW accounts;  ATS accounts; and telephone and preauthorized transfer accounts as defined for 'Tota",F
+RCON3493,Loans Secured By Real Estate (In Domestic Offices): Secured By Farmland - Past Due 30 Through 89 Days And Still Accruing,"Includes loans secured by real estate in domestic offices that are included in 'Loans Secured by Farmland (1420)' that are past due 30 thru 89 days and are still accruing.
+
+NOTE:
+
+Reported on Sche",F
+RCON3494,Loans Secured By Real Estate (In Domestic Offices): Secured By Farmland - Past Due 90 Days Or More And Still Accruing,"
+ Includes loans secured by real estate in domestic offices that are included in 'Loans Secured by Farmland (1420)' that are past due 90 days or more and are still accruing.
+
+NOTE:
+
+Reported on S",F
+RCON3495,Loans Secured By Real Estate (In Domestic Offices): Secured By Farmland - Nonaccrual,"
+ Includes loans secured by real estate in domestic offices that are included in 'Loans Secured by Farmland (1420)' that are in nonaccrual status.
+
+NOTE:
+
+Reported on Schedule HC-N for the FR Y-9",F
+RCON3499,Loans Secured By Real Estate (In Domestic Offices): Secured By Multifamily (5 Or More) Residential Properties - Past Due 30 Through 89 Days And Still Accruing,Includes loans secured by real estate in domestic offices that are included in 'Loans Secured by Multifamily (5 or More) Residential Properties (1460)' that are past due 30 thru 89 days and are still ,F
+RCON3500,Loans Secured By Real Estate (In Domestic Offices): Secured By Multifamily (5 Or More) Residential Properties - Past Due 90 Days Or More And Still Accruing,"
+ Includes loans secured by real estate in domestic offices that are included in 'Loans Secured by Multifamily (5 or More) Residential Properties (1460)' that are past due 90 days or more and are sti",F
+RCON3501,Loans Secured By Real Estate (In Domestic Offices): Secured By Multifamily (5 Or More) Residential Properties - Nonaccrual,"
+ Includes loans secured by real estate in domestic offices that are included in 'Loans Secured by Multifamily (5 or More) Residential Properties (1460)' that are in nonaccrual status.
+
+NOTE:
+
+Re",F
+RCON3545,Trading Assets; Total,Banks that (a) regularly underwrite or deal in securities; interest rate contracts; foreign exchange rate contracts; other off-balance sheet commodity and equity contracts; other financial instruments,F
+RCON3548,Trading Liabilities; Total,The amount of liabilities from the reporting bank's trading activities is to be reported in this item. Includes  liabilities resulting from sales of assets that the reporting bank does not own and rev,F
+RCON3645,Interest Accrued And Unpaid On Deposits (In Domestic Offices),"
+ Includes the amount of interest on deposits (in domestic offices) accrued through charges to expense during the  current or prior periods; but not yet paid or credited to a deposit account. Note: f",F
+RCON5367,All Other Loans Secured By 1-4 Family Residential Properties: Secured By First Liens,"Includes the amount of all permanent loans secured by first liens on 1-to-4 family residential properties.&#x0D;
+&#x0D;
+NOTE:&#x0D;
+&#x0D;
+FR 2248 (DFCR) -- reported only for March; June; September an",F
+RCON5368,All Other Loans Secured By 1-4 Family Residential Properties: Secured By Junior Liens,Includes the amount of all permanent loans secured by junior (i.e.; other than first) liens on 1-to-4 family  residential properties. Even if the bank also holds a loan secured by a first lien on the ,F
+RCON5370,Adjustable Rate Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties,"
+ Includes the amount of closed-end loans secured by first liens on 1-to-4 family residential properties (in domestic offices) included in Schedule RC-C; item 5367 that have a floating or adjustable ",F
+RCON5398,Loans Secured By 1-4 Family Residential Properties: Revolving; Open-End Loans Secured By 1-4 Family Residential Properties And Extended Under Lines Of Credit - Past Due 30 Through 89 Days And Still Accruing,Includes loans secured by 1-4 family residential properties that are included in 'Revolving; Open-End Loans  Secured By 1-4 Family Residential Properties and Extended Under Lines of Credit (1797)' tha,F
+RCON5399,Loans Secured By 1-4 Family Residential Properties: Revolving; Open-End Loans Secured By 1-4 Family Residential Properties And Extended Under Lines Of Credit - Past Due 90 Days Or More And Still Accruing,"
+ Includes loans secured by 1-4 family residential properties that are included in 'Revolving; Open-End Loans  Secured By 1-4 Family Residential Properties and Extended Under Lines of Credit (1797)' ",F
+RCON5400,Loans Secured By 1-4 Family Residential Properties: Revolving; Open-End Loans Secured By 1-4 Family Residential Properties And Extended Under Lines Of Credit - Nonaccrual,"
+ Includes loans secured by 1-4 family residential properties that are included in 'Revolving; Open-End Loans Secured By 1-4 Family Residential Properties and Extended Under Lines of Credit (1797)' t",F
+RCON5508,All Other Real Estate Owned: Construction And Land Development In Domestic Offices,"
+ Includes the net book value of all other real estate owned (in domestic offices) in the form of; or for which the  underlying real estate consists of; either land under development or structures or",F
+RCON5509,All Other Real Estate Owned: Farmland In Domestic Offices, For further information on the meaning of the term 'farmland;' see item 1420. However; the amount reported in  this item includes all other real estate owned in the form of; or for which the underlyi,F
+RCON5510,All Other Real Estate Owned: 1-4 Family Residential Properties In Domestic Offices,"
+ Includes the net book value of all other real estate owned ( in domestic offices) in the form of; or for which the underlying real estate consists of; 1-to-4 family residential properties.
+
+ For ",F
+RCON5511,All Other Real Estate Owned: Multifamily (5 Or More) Residential Properties In Domestic Offices,"
+ Includes the net book value of all other real estate owned (in domestic offices) in the form of; or for which the underlying real estate consists of; multifamily residential properties.
+
+ For fur",F
+RCON5512,All Other Real Estate Owned: Nonfarm Nonresidential Properties In Domestic Offices,"
+ Includes the net book value of all other real estate owned (in domestic offices) in the form of; or for which the underlying real estate consists of; nonfarm nonresidential properties.
+
+ For furt",F
+RCON5597,Estimated Amount Of Uninsured Assessable Deposits In Domestic Offices Of The Bank And In Insured Branches In Puerto Rico And U.S. Territories And Possessions; Including Related Interest Accrued And Unpaid,Schedule RC-O; Memorandum item 2; is to be completed on an unconsolidated single FDIC certificate number basis by banks with $1 billion or more in total assets. Report the estimated amount of the bank,F
+RCON6631,Deposits: Noninterest-Bearing,"Includes the amount of all noninterest-bearing deposits.
+
+COMPARABILITY:
+
+Beginning 9/30/84; includes total demand deposits and noninterest-bearing time and savings deposits.
+
+",F
+RCON6636,Total Interest-Bearing Deposits In Foreign And Domestic Offices, The dollar amount (in thousands) of 'Time Certificates Of Deposit Of $100;000 Or More (6645)' held in foreign  offices of the reporting bank. The term 'foreign office' includes all branches of the re,F
+RCON6648,Total Time Deposits Of Less Than $100;000,Includes all nontransaction time deposits reported in item 2350; with balances of less than $100;000. Also  includes both time certificates of deposit and open account time deposits with balances of l,F
+RCON6810,Money Market Deposit Accounts (Mmda'S),"
+&#x0D; Includes all money market deposit accounts (MMDA's); including those held in IRA's and KEOGH plans. The  principal characteristics of MMDA's are: (a) no minimum maintenance balance requirement",F
+RCON6835,All Time And Savings Deposits Held In Ira And Keogh Plan Accounts,"
+&#x0D; Includes the total amount outstanding of all time and savings deposits held in IRA and KEOGH plans. All IRA  and KEOGH plan time and savings deposits regardless of size; maturity; interest rat",F
+RCON9999,Reporting Date (Cc;Yr;Mo;Da),Effective 10/24/2011; the FR 2572 information collection was transferred to the Consumer Financial Protection Bureau (CFPB); removing it from the Board's OMB inventory and adding it to the CFPB's unde,F
+RCONA564,Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Three Months Or Less,"
+ Includes the amount of the bank's fixed rate closed-end loans sescured by first liens on 1-4 family residential  properties (in domestic offices) with remaining maturities of three months or less; ",F
+RCONA565,Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over Three Months Through 12 Months,"
+ Includes the amount of the bank's fixed rate closed-end loans sescured by first liens on 1-4 family residential  properties (in domestic offices) with remaining maturities (without regard to repaym",F
+RCONA566,Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over One Year Through Three Years,"
+ Includes the amount of the bank's fixed rate closed-end loans sescured by first lines on 1-4 family residential  properties (in domestic offices) with remaining maturities (without regard to repaym",F
+RCONA567,Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over Three Years Through Five Years,"
+ Includes the amount of the bank's fixed rate closed-end loans sescured by first lines on 1-4 family residential  properties (in domestic offices) with remaining maturities (without regard to repaym",F
+RCONA568,Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over Five Years Through 15 Years,"
+ Includes the amount of the bank's fixed rate closed-end loans sescured by first lines on 1-4 family residential  properties (in domestic offices) with remaining maturities (without regard to repaym",F
+RCONA569,Closed-End Loans Secured By First Liens On 1-4 Family Residential Properties (In Domestic Offices) With A Remaining Maturity Or Repricing Frequency Of Over 15 Years,"
+ Includes the amount of the bank's fixed rate closed-end loans sescured by first lines on 1-4 family residential  properties (in domestic offices) with remaining maturities (without regard to repaym",F
+RCONB531,Loans To Depository Institutions And Acceptances Of Other Banks: To Commercial Banks In The U.S.,,D
+RCONB534,Loans To Other Depository Institutions In The U.S.,"Report (on the FFIEC 031; in columns A and B; on the FFIEC 041; in column A; as appropriate) loans to and acceptances of depository institutions; other than commercial banks; domiciled in the U.S. 
+",F
+RCONB535,Loans To Banks In Foreign Countries,,D
+RCONB538,Loans To Individuals For Household; Family; And Other Personal Expenditures (I.E.; Consumer Loans)(Includes Purchased Paper): Credit Cards,Report (on the FFIEC 031; in columns A and B; on the FFIEC 041; in column B; as appropriate) all extensions of credit to individuals for household; family; and other personal expenditures arising from,F
+RCONB539,Loans To Individuals For Household; Family; And Other Personal Expenditures (I.E.; Consumer Loans)(Includes Purchased Paper): Other Revolving Credit Plans,Report (on the FFIEC 031; in columns A and B; on the FFIEC 041; in column B; as appropriate) all extensions of credit to individuals for household; family; and other personal expenditures arising from,F
+RCONB549,Total Transaction Accounts - Deposits Of Individuals; Partnerships; And Corporation,"
+Report in column A the total of all transactions accounts.  Report all deposits of individuals; partnerships; and corporations; wherever located; and all certified and official checks. 
+
+Include i",F
+RCONB550,Total Nontransaction Accounts Deposits Of Individuals; Partnerships; And Corporations,"
+Report in column C all deposits other than trasaction accounts.  Include in this column all interest-bearing and noninterest-bearing savings deposits and time deposits together with all interest pai",F
+RCONB551,Total Transaction Accounts - Deposits Of Commercial Banks And Other Depository Institutions In The U.S.,"       
+Report in column A the total of all transaction accounts. Report all deposits of commercial banks and other depository institutions located in the U.S. 
+
+Commercial banks in the U.S. cover:",F
+RCONB552,Total Nontransaction Accounts Of Commercial Banks And Other Depository Institutions In The U.S.,"
+Report in column C all deposits other than transaction accounts.  Include in this column all interest-bearing and noninterest-bearing savings deposits and time deposits together with all interest pa",F
+RCONB561,Loans To Individuals For Household; Family; And Other Personal Expenditures: Credit Cards,"      
+
+Report the quarterly average for credit cards. For purposes of this schedule; credit cards (in domestic offices) (as defined for Schedule RC-C; part I; item 6.a; column B).
+
+
+NOTE:
+
+
+R",F
+RCONB562,Loans To Individuals For Household; Family; And Other Personal Expenditures: Other,Report the quarterly average for loans (in domestic offices) to individuals for household; family; and other personal expenditures other than credit cards (as defined for Schedule RC-C; part I; items ,F
+RCONB563,Nontransaction Accounts In Domestic Offices: Savings Deposits,"       
+Report the quarterly average for savings deposits (as defined for Schedule RC-E; (part I); Memorandum items 2.a.(1) and 2.a.(2)). Savings deposits include money market deposit accounts (MMDAs",F
+RCONB989,Securities Purchased Under Agreements To Resell,"Report the outstanding amount of: &#x0D;
+&#x0D;
+(1) Securities resale agreements; regardless of maturity; if the agreement requires the bank to resell the identical security purchased or a security th",F
+RCONB995,Securities Sold Under Agreements To Repurchase,"Report the outstanding amount of: 
+
+(1) Securities repurchase agreements; regardless of maturity; if the agreement requires the bank to repurchase the identical security sold or a security that meet",F
+RCONC229,Closed-End Loans Secured By 1-4 Family Residential Properties:Secured By First Liens-Nonaccural,For series RCON; report in this column the amount of all closed-end loans secured by first liens on 1-4 family residential properties (in domestic offices); as defined for Schedule RC-C; item 1(c)(2)(,F
+RCONC230,Closed-End Loans Secured By 1-4 Family Residential Properties:Secured By Junior Liens-Nonaccural,For series RCON; report in this column the amount of all closed-end loans secured by junior liens on 1-4 family residential properties (in domestic offices); as defined for Schedule RC-C; item 1(c)(2),F
+RCONC236,Closed-End Loans Secured By 1-4 Family Residential Properties:Secured By First Liens-Past Due 30 Thru 89 Days And Still Accruing,For series RCON; report in this column the amount of all closed-end loans secured by first liens on 1-4 family residential properties (in domestic offices); as defined for Schedule RC-C; part I; item ,F
+RCONC237,Closed-End Loans Secured By 1-4 Family Residential Properties:Secured By First Liens-Past Due 90 Days Or More And Still Accruing,For series RCON; report in this column the amount of all closed-end loans secured by first liens on 1 4 family residential properties (in domestic offices); as defined for Schedule RC-C; item 1(c)(2)(,F
+RCONC238,Closed-End Loans Secured By 1-4 Family Residential Properties:Secured By Junior Liens-Past Due 30 Thru 89 Days And Still Accruing,For series RCON; report in this column the amount of all closed-end loans secured by junior liens on 1-4 family residential properties (in domestic offices); as defined for Schedule RC-C; item 1(c)(2),F
+RCONF045,Amount Of Retirement Deposits Accounts Of $250;000 Or Less,Report the aggregate balance of all retirement deposit accounts; certificates; or other evidences of deposit (demand; savings; and time) with a balance on the report date of $250;000 or less. This amo,F
+RCONF047,Amount Of Retirement Deposit Accounts Of More Than $250;000,Report the aggregate balance of all retirement deposit accounts; certificates; or other evidences of deposit (demand; savings; and time) with a balance on the report date of more than $250;000. This a,F
+RCONF048,Number Of Retirement Deposit Accounts Of More Than $250;000,Report the total number of retirement deposit accounts (demand; savings; and time) with a balance on the report date of more than $250;000. Count each certificate; passbook; account; and other evidenc,F
+RCONF049,Amount Of Deposit Accounts (Excluding Retirement Accounts) Of $250;000 Or Less,"NOTE:
+
+As of 20090930 temporary insurance threshold changes on non-retirement deposits from $100;000 to $250;000.  Effective through December 31; 2014.
+
+Report the aggregate balance of all deposit",F
+RCONF051,Amount Of Deposit Accounts (Excluding Retirement Accounts) Of More Than $250;000,"NOTE:
+As of 20090930 temporary insurance threshold changes on non-retirement deposits from $100;000 to $250;000. Effective through December 31; 2014.
+
+Report the aggregate balance of all deposit ac",F
+RCONF052,Number Of Deposit Accounts (Excluding Retirement Accounts) Of More Than $250;000,"As of 20090930 temporary insurance threshold changes on non-retirement deposits from $100;000 to $250;000. Effective through December 31; 2014. 
+
+Report the total number of deposit accounts (demand;",F
+RCONF158,Loans Secured By 1-4 Family Residential Construction,Report the amount of 1-4 family residential construction loans (in domestic offices) included in Schedule RC-C; part I; item 1.a; i.e.; loans for the purpose of constructing 1-4 family residential pro,F
+RCONF159,Loans Secured By Other Construction Loans And All Land Development And Other Land Loans,Report the amount of all construction loans for purposes other than constructing 1-4 family residential properties; all land development loans; and all other land loans (in domestic offices) included ,F
+RCONF160,Loans Secured By Owner Occupied Nonfarm Nonresidential Properties,"Report the amount of loans secured by owner-occupied nonfarm nonresidential properties included in Schedule RC-C; part I; item 1.e.&#x0D;
+&#x0D;
+Loans secured by owner-occupied nonfarm nonresidential ",F
+RCONF161,Loans Secured By Other Nonfarm Nonresidential Properties.,"Report the amount of loans (in domestic offices) included in Schedule RC-C; part I; item 1.e; that are not secured by owner-occupied nonfarm nonresidential properties.&#x0D;
+&#x0D;
+Loans secured by ot",F
+RCONF172,1-4 Family Residential Construction Loans: Past Due 31 - 89 Days,Report all assets other than loans and leases reportable in Schedule RC-C that are past due 30 days or more or are in nonaccrual status as of the report date. Include such assets as debt securities an,F
+RCONF173,Other Construction Loans And All Land Development And Other Land Loans;  Past Due 31 - 89 Days,Report all assets other than loans and leases reportable in Schedule RC-C that are past due 30 days or more or are in nonaccrual status as of the report date. Include such assets as debt securities an,F
+RCONF176,1-4 Family Residential Construction Loans;  Nonaccrual,Report all assets other than loans and leases reportable in Schedule RC-C that are past due 30 days or more or are in nonaccrual status as of the report date. Include such assets as debt securities an,F
+RCONF177,Other Construction Loans And All Land Development And Other Land Loans; Nonaccrual,Report all assets other than loans and leases reportable in Schedule RC-C that are past due 30 days or more or are in nonaccrual status as of the report date. Include such assets as debt securities an,F
+RCONF179,Loans Secured By Other Nonfarm Nonresidential Properties; 30-89 Days Past Due,"Report the recorded investment in:&#x0D;
+&#x0D;
+(1) Delinquent rebooked GNMA loans that have been repurchased or are eligible for&#x0D;
+repurchase by seller-servicers of GNMA loans; and&#x0D;
+(2) Deli",F
+RCONF183,Loans Secured By Other Nonfarm Nonresidential Properties; Nonaccrual,"Report the recorded investment in:&#x0D;
+&#x0D;
+(1) Delinquent rebooked GNMA loans that have been repurchased or are eligible for&#x0D;
+repurchase by seller-servicers of GNMA loans; and&#x0D;
+(2) Deli",F
+RCONF233,Individual Retirement Accounts (Iras) And Keogh Plan Accounts Included In Memorandum Item 2.C; 'Total Time Deposits Of $100;000 Or More;' Above,Report all IRA and Keogh Plan time deposits of $100;000 or more included above in Schedule RC-E; Memorandum item 2.c. These IRA and Keogh Plan time deposits will also have been included in Schedule RC,F
+RCONF577,Loans Secured By 1-4 Family Residential Properties In Domestic Offices In Process Of Foreclosure (Included In Rc-C; Part I; Items 1.C.(1); 1.C.(2)(A); And 1.C.(2)(B),Total unpaid principal balance of loans secured by 1-4 family residential properties (in domestic offices)* for which formal foreclosure proceedings to seize the real estate collateral have started an,F
+RIAD0093,Savings Deposits (Including Mmdas),"
+Includes total interest expense; on savings deposits (including MMDAs) on a calendar month-to-date basis.
+
+NOTE:
+
+ Refer to the instructions for the Consolidated Report of Income for items to be",F
+RIAD0497,Marketing And Other Professional Services,"
+Includes:
+
+1.  Advertising; production; agency fees; and direct mail;
+
+2.  Marketing research; including consultants;
+
+3.  Public relations; including consultants; seminars; or customer magazi",F
+RIAD3123,Allowance For Loan And Lease Losses,As of 12/31/2023; ASU 2016-13 'Measurement of Credit Losses on Financial Instruments;' was effective for all institutions.&#x0D;ALLOWANCE FOR LOAN AND LEASE LOSSES&#x0D;Includes the sum of 'Allowance ,F
+RIAD3196,Realized Gains (Losses) On Available-For-Sale Debt Securities,"&#x0D;
+&#x0D;
+ Includes the net gain or loss realized during the calendar year to date from the sale; exchange; redemption; or  retirement of all securities that are reportable in Schedule RC for the ",F
+RIAD3210,Total Equity Capital,The sum of 'Perpetual Preferred Stock and Related Surplus (3838)'; 'Common Stock (3230)'; 'Surplus (3839)'; 'Undivided Profits and Capital Reserves (3632)'; 'Cumulative Foreign Currency Translation Ad,F
+RIAD3217,Equity Capital; Most Recently Reported For The End Of Previous Calendar Year (I.E.; After Adjustments From Amended Reports Of Income),&#x0D;Report the bank's total equity balance as reported in the Reports of Condition and Income for the previous calendar year-end after the effect of all corrections and adjustments to total equity c,F
+RIAD3521,Realized Gains (Losses) On Held-To-Maturity Securities,"
+&#x0D;
+&#x0D;
+&#x0D;
+&#x0D;NOTE:
+&#x0D; Includes the net gain or loss realized during the calendar year-to-date from the sale; exchange; redemption; or  retirement of all securities that are reportab",F
+RIAD3584,Charge-Offs On Loans Secured By Farmland,"Includes loans secured by farmland as defined in 'Loans Secured by Farmland (1420)' that have been charged off.
+
+NOTE:
+
+For the Call report; reported only by the FFIEC 031 and 032 reporters.
+
+Fo",F
+RIAD3585,Recoveries On Loans Secured By Farmland,"Includes loans secured by farmland as defined in 'Loans Secured by Farmland (1420)' that have been recovered.
+
+NOTE:
+
+For the Call report; reported only by the FFIEC 031 and 032 reporters.
+
+For ",F
+RIAD3588,Charge-Offs On Loans Secured By Multifamily (5 Or More) Residential Properties,"Includes loans secured by multifamily (5 or more) residential properties as defined in 'Loans Secured by Multifamily (5 or More) Residential Properties (1460)' that have been charged off.
+
+NOTE:
+
+",F
+RIAD3589,Recoveries On Loans Secured By Multifamily (5 Or More) Residential Properties,"Includes loans secured by multifamily (5 or more) residential properties as defined in 'Loans Secured by Multifamily (5 or More) Residential Properties (1460)' that have been recovered.
+
+NOTE:
+
+Fo",F
+RIAD4010,Interest And Fee Income On Loans; Total,Includes the total of interest and fee income and similar charges levied against all assets classified as loans in Condition reports; including fees on overdrafts. This includes interest on acceptance,F
+RIAD4012,Interest And Fee Income On Commercial And Industrial Loans,"
+
+ Interest and fee income on loans for commercial and industrial purposes to business enterprises (proprietorships;  partnerships; and corporations); whether secured or unsecured; single payment or",F
+RIAD4020,Interest Income On Federal Funds Sold And Securities Purchased Under Agreements To Resell,"Includes the gross revenue from assets included in 'Federal Funds Sold and Securities Purchased Under Agreements to Resell (1350)'.
+
+The expense of federal funds purchased and securities sold under ",F
+RIAD4024,Interest And Fee Income On Loans To Finance Agricultural Production And Other Loans To Farmers In Domestic Offices,"
+ Includes all interest; fees; and similar charges levied against or associated with all loans in domestic offices that are included in 'Loans to Finance Agricultural Production and Other Loans to Fa",F
+RIAD4056,Interest And Fee Income On Loans To Foreign Governments And Official Institutions In Domestic Offices,"Includes all interest; fees; and similar charges levied against or associated with all loans in domestic offices that are included in 'Loans to Foreign Governments and Official Institutions (2081)'
+",F
+RIAD4059,Interest And Fee Income On Loans In Foreign Offices; Edge And Agreement Subsidiaries; And Ibfs,"
+ Includes all interest; fees; and similar charges levied against or associated with all loans in foreign offices; Edge and Agreement subsidiaries; and IBFs.
+
+NOTE:
+
+Reported in Schedule HI for t",F
+RIAD4060,Interest On Other Securities,"
+Includes income from all securities reportable in Schedule RC-B; item 3; 'Securities issued by states andpolitical subdivisions in the U.S.;' item 5; 'Asset-backed securities;'  item 6; 'Other debt ",F
+RIAD4065,Income From Lease Financing Receivables," Includes amortized income from direct and leveraged financing leases which relate to 'Lease Financing Receivables (Net of Unearned Income) (2165).'
+
+ Excludes: (1) any investment tax credit associa",F
+RIAD4069,Interest Income From Trading Assets,"
+ Includes the interest income earned on assets that are included in 'Trading Assets (3545)'. Also includes  accretion of discount on assets held in trading accounts that have been issued on a discou",F
+RIAD4070,Income From Fiduciary Activities,"Includes gross income from services rendered by the bank's trust department or by any of its consolidated subsidiaries acting in any fiduciary capacity. 
+
+For BHCK; beginning 3/31/02; includes commi",F
+RIAD4073,Total Interest Expense,Includes the sum of 'Interest on Time Certificates of Deposit of $100;000 or More (4174)'; 'Interest on Other Deposits (4176)'; 'Interest on Deposits in Foreign Offices; Edge and Agreement Subsidiarie,F
+RIAD4074,Net Interest Income,"Includes the difference between 'Total Interest Expense (4073)' and 'Total Interest Income (4107)'. If negative; the amounts are enclosed in parentheses. &#x0D;
+&#x0D;
+&#x0D;
+NOTE: &#x0D;
+&#x0D;
+Repor",F
+RIAD4079,Total Noninterest Income,On the FFIEC 031; 032; and 033; includes the sum of 'Income from Fiduciary Activities (4070)'; 'Service Charges on Deposit Accounts in Domestic Offices (4080)'; 'Trading Gains (Losses) and Fees from F,F
+RIAD4080,Service Charges On Deposit Accounts In Domestic Offices,Includes amounts charged depositors: (1) for the maintenance of their deposit accounts with the bank; so-called  'maintenance charges'; (2) for their failure to maintain specified minimum deposit bala,F
+RIAD4092,Other Noninterest Expense,"Includes all operating expenses of the entity for the calendar year-to-date not required to be reported. 
+
+
+If the absolute value of the dollar amount of net (gains) losses on other real estate own",F
+RIAD4093,Total Noninterest Expense,"Includes the sum of 'Salaries and Employee Benefits (4135)'; 'Expenses of Premises and Fixed Assets (4217)'; and 'Other Noninterest Expense (4092)'. &#x0D;
+&#x0D;
+For the 'BHCS' series; includes 'Noni",F
+RIAD4107,Total Interest Income,Includes the sum of 'Interest and Fee Income on Loans Secured by Real Estate in Domestic Offices (4011)'; 'Interest and Fee Income on Loans to Depository Institutions in Domestic Offices (4019)'; 'Int,F
+RIAD4115,Interest Income On Balances Due From Depository Institutions, The amount of interest income received or accrued during the reporting period on balances carried with domestic  and foreign banks and other depository institutions in the United States. Also include,F
+RIAD4135,Salaries And Employee Benefits, Includes salaries and benefits of all officers and employees of the bank and its consolidated subsidiaries including guards and contracted guards; temporary office help; dining room and cafeteria emp,F
+RIAD4141,Legal Expense,"COMPARABILITY:
+
+
+Beginning 3/31/02; for series BHCK; disclose in this item the component of Schedule HI; item 7(d); 'Other noninterest expense;' and the dollar amount of such component; that exceed",F
+RIAD4150,Number Of Full Time Equivalent Employees On Payroll At End Of Current Period,Report the number of full-time equivalent employees of the bank and its consolidated subsidiaries as of the report date (round to the nearest whole number). For purposes of this Memorandum item; a ban,F
+RIAD4172,Interest On Deposits In Foreign Offices; Edge And Agreement Subsidiaries; And Ibfs,"
+
+ Includes interest expense on all deposits in foreign offices included in 'Interest-Bearing Deposits in Foreign  Offices; Edge and Agreement Subsidiaries; and IBFs (6636)'. Also includes premiums ",F
+RIAD4180,Expense Of Federal Funds Purchased And Securities Sold Under Agreements To Repurchase," Includes the gross expense of all liabilities included in 'Federal Funds Purchased and Securities Sold Under Agreements to Repurchase (2800)'.
+
+
+ The income of federal funds sold and securities pu",F
+RIAD4185,Interest On Trading Liabilities And Other Borrowed Money,"Includes interest expense relating to 'Demand Notes Issued to the U.S. Treasury and Other Borrowed Money (2835)'.
+
+COMPARABILITY:
+
+Beginning 3/31/01; for series 'BHCK' report the interest expense ",D
+RIAD4200,Interest On Notes And Debentures Subordinated To Deposits,"
+ Includes interest expense and the amortization of yield adjustments on all subordinated debentures and  mandatory convertible securities issued by the reporting thrift or its finance subsidiaries; ",F
+RIAD4217,Expenses Of Premises And Fixed Assets, Includes all noninterest expenses related to the use of premises; equipment; furniture; and fixtures. Deducted is  rental income from gross premises and fixed asset expense. Rental income includes al,F
+RIAD4230,Provision For Loan And Lease Losses,Reported is the amount expensed as the provision for credit losses during the calendar year-to-date. The provision for credit losses includes the amount needed to make the allowance for loan and lease,F
+RIAD4300,Income (Loss) Before Discontinued Operations," 'Income (Loss) Before Income Taxes and Extraordinary Items and Other Adjustments (4301)' minus 'Applicable Income Taxes (4302)'.
+
+NOTE:
+
+For the FR Y-9C (BHCK) report; the MDRM reflects data star",F
+RIAD4301,Income (Loss) Before Applicable Income Taxes And Discontinued Operations,Includes 'Net Interest Income (4074)'; minus 'Provision for Loan and Lease Losses (4230)'; and 'Provision for Allocated Transfer Risk (4243)'; plus 'Total Noninterest Income (4079)'; plus or minus 'Re,F
+RIAD4302,Applicable Income Taxes,Includes the total estimated federal; state and local; and foreign income tax expense applicable to 'Income (Loss) Before Income Taxes and Extraordinary Items and Other Adjustments (4301)'; including ,F
+RIAD4313,Estimated Income On Tax-Exempt Loans And Leases To States And Political Subdivisions In The U.S.,"
+
+
+NOTE:
+
+Beginning 3/31/01; for the FFIEC 031 report; this income will have been included in Schedule RI-Income Statement; item 1.a.(a)(f); Interest and fee income on 'All other loans in domesti",F
+RIAD4340,Net Income (Loss),"Includes the net income (loss) reported in item 4340 (Net Income (Loss)).  For most series (other than SVGL) this is a year-to-date value. &#x0D;
+&#x0D;
+For the FR Y-11AS (BHAS) report; includes the s",F
+RIAD4356,Changes Incident To Business Combinations; Net,"
+ If the bank has entered into a business combination which became effective during the reporting period and  which has been accounted for as a pooling of interests; report the historical equity capi",F
+RIAD4415,Other Transactions With Stockholders (Including Parent Holding Company),"
+ Includes the net aggregate amount of transactions with the bank's parent holding company which affect equity  capital directly; such as: (1) capital contributions other than those for stock (issuan",F
+RIAD4435,Interest And Fee Income On Loans Secured By 1-4 Family Residential Properties,"Includes all interest; fees; and similar charges levied against or associated with all loans included in Loans Secured by 1-4 Family Residential Properties (1430)
+
+NOTE:
+
+This item is reported by ",F
+RIAD4436,Interest And Fee Income On All Other Loans Secured By Real Estate,Includes all interest; fees; and similar charges levied against or associated with all loans included in  'Construction and Land Development Loans (1415)'; 'Loans Secured by Multi-Family (5 or More) R,F
+RIAD4460,Cash Dividends Declared On Common Stock,The amount of cash dividends declared on common stock during the calendar year-to-date; including dividends  not payable until after end of report year. The amount is reported as an absolute value; an,F
+RIAD4461,First Itemized Amount That Exceeds 10% Of All Other Noninterest Income (5408),"
+ The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the first line that exceeds 10% of 'All Other Noninterest Income (5408)'. It should be used in conjunction with the v",F
+RIAD4462,Second Itemized Amount That Exceeds 10% Of All Other Noninterest Income (5408),"
+ The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the second line that exceeds 10% of 'All Other Noninterest Income (5408)'. It should be used in conjunction with the ",F
+RIAD4464,First Itemized Amount That Exceeds 10% Of Other Noninterest Expense (4092),"
+ The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the first line that exceeds 10% of 'Other Noninterest Expense (4092)'. It should be used in conjunction with the valu",F
+RIAD4467,Second Itemized Amount That Exceeds 10% Of Other Noninterest Expense (4092),"
+ The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the second line that exceeds 10% of 'Other Noninterest Expense (4092)'. It should be used in conjunction with the val",F
+RIAD4468,Third Itemized Amount That Exceeds 10% Of Other Noninterest Expense (4092),"
+ The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the third line that exceeds 10% of 'Other Noninterest Expense (4092)'. It should be used in conjunction with the valu",F
+RIAD4470,Cash Dividends Declared On Preferred Stock,The amount of cash dividends declared on limited-life preferred and perpetual preferred stock during the  calendar year-to-date; including dividends not payable until after end of report year. Does no,F
+RIAD4498,First Itemized Transaction Of Other Transactions With Stockholders (Including Parent Holding Company) (4415),"
+The field prefixed by the mnemonic 'TEXT' is the name of the amount itemized as the first line of 'Other Transactions With Parent Holding Company (4415)'.
+
+5.3.2013 - Name updated from 'First Item",F
+RIAD4507,Interest And Dividend Income On Tax-Exempt Securities Issued By States And Political Subdivisions In The U.S.,"
+ Includes the income from those securities issued by states and political subdivisions in the U.S. that are included  in Schedule RC-B; items 8496; 8497; 8498 and 8499; the interest from which is ex",F
+RIAD4508,Interest On Transaction Accounts (Now Accounts; Ats Accounts; And Telephone And Preauthorized Transfer Accounts),"
+ Includes interest expense on the three interest-bearing categories of transaction accounts (NOW accounts; ATS  accounts; and telephone and preauthorized transfer accounts) reportable in 'Total Tran",F
+RIAD4513,Interest Expense Incurred To Carry Tax-Exempt Securities; Loans; And Leases Acquired After August 7; 1986; That Is Not Deductible For Federal Income Tax Purposes,"
+ Includes the bank's best estimate of the amount of the year-to-date interest expense included in 'Total Interest  Expense (4073)' (Schedule RI) that is subject to a 100 percent loss of deductibilit",F
+RIAD4518,Other Interest Income,"
+ Includes: 1) income on real estate sales contracts reportable in 'Other Real Estate Owned (BHCK2150)'; 2)  interest income from advances to; or obligations of; majority-owned subsidiaries not conso",F
+RIAD4521,First Itemized Adjustment To Allowance For Loan And Lease Losses (4815),"As of 12/31/2023; ASU 2016-13 'Measurement of Credit Losses on Financial Instruments;' was effective for all institutions.&#x0D;
+&#x0D; The field prefixed by the mnemonic 'TEXT' is the name of the amo",F
+RIAD4605,Recoveries On Allowance For Loan And Lease Losses,"Includes recoveries of amounts previously charged-off against allowance for loan and lease losses during the calendar year-to-date. &#x0D;
+&#x0D;
+Beginning March 2003; for series 'BHCK' report in colu",F
+RIAD4617,Recoveries On Commercial And Industrial Loans To U.S. Addressees (Domicile),"
+ The year-to-date recoveries on 'Commercial and Industrial Loans to U.S. Addressees (Domicile) (1763)' for banks with foreign offices and/or Edge or Agreement subsidiaries.
+
+NOTE:
+
+Beginning 3/3",F
+RIAD4618,Recoveries On Commercial And Industrial Loans To Non-U.S. Addressees (Domicile),"The year-to-date recoveries on 'Commercial and Industrial Loans to Non-U.S. Addressees (Domicile) (1764)' for banks with foreign offices and/or Edge or Agreement subsidiaries.
+
+NOTE:
+
+Beginning 3/",F
+RIAD4627,Recoveries On Loans To Foreign Governments And Official Institutions,"The year-to-date recoveries on 'Loans to Foreign Governments and Official Institutions (2081).
+
+For the UBPR series; the FDIC's Data Element name is H-FGRECV.
+
+
+",F
+RIAD4628,Recoveries On All Other Loans,For the FFIEC 031-034 reports; includes the year-to-date recoveries on 'Obligations (other than securities and leases) of states and political subdivisions in the U.S. (2107)'; and 'All Other Loans (1,F
+RIAD4635,Charge-Offs On Allowance For Loan And Lease Losses,"The amount of gross charge-offs on loans and leases during the calendar year-to-date. &#x0D;
+&#x0D;
+Beginning March 2003; for series 'BHCK' report in column A the sum of items 1 through 8. The amount ",F
+RIAD4643,Charge-Offs On Loans To Foreign Governments And Official Institutions,"The year-to-date charge-offs on 'Loans to Foreign Governments and Official Institutions (2081)'.
+
+For the UBPR series; the FDIC's Data Element name is H-FGCOFS.
+
+
+",F
+RIAD4644,Charge-Offs On All Other Loans,For the FFIEC 031-034 reports; includes the year-to-date charge-offs on 'Obligations (other than securities and leases) of states and political subdivisions in the U.S. (2107)'; and 'All Other Loans (,F
+RIAD4645,Charge-Offs On Commercial And Industrial Loans To U.S. Addressees,"
+The year-to-date charge-offs on 'Commercial and Industrial Loans to U.S. Addressees (1763)'.
+
+NOTE:
+
+Beginning 3/31/01; applicable only to banks filing the FFIEC 031 report form.
+
+COMPARABILIT",F
+RIAD4646,Charge-Offs On Commercial And Industrial Loans To Non-U.S. Addressees,"The year-to-date charge-offs on 'Commercial and Industrial Loans to Non-U.S. Addressees (1764)'.
+
+NOTE:
+
+Beginning 3/31/01; for the FFIEC 031; reported on Schedule RI-B; part I; item 4.b.; column ",F
+RIAD4652,Charge-Offs On Loans Secured By Real Estate To Non-U.S. Addressees (Domicile),"
+Includes the year-to-date charge-offs on 'Loans Secured by Real Estate (1410)'; to non-U.S. addressees.
+
+COMPARABILITY:
+
+Beginning 3/31/01; for the FFIEC 031; reported as a Memoranda item on Sch",F
+RIAD4655,Charge-Offs On Loans To Finance Agricultural Production And Other Loans To Farmers,"Includes the year-to-date charge-offs on 'Loans to Finance Agricultural Production and Other Loans to Farmers (1590)'.
+
+COMPARABILITY:
+
+Beginning 3/31/01; for the FFIEC 031; reported on Schedule R",F
+RIAD4662,Recoveries On Loans Secured By Real Estate To Non-U.S. Addressees (Domicile),"
+Includes the year-to-date recoveries on 'Loans Secured by Real Estate (1410)' to non-U.S. addressees.
+
+COMPARABILITY:
+
+Beginning 3/31/01; for the FFIEC 031; reported as a Memoranda item on Sched",F
+RIAD4665,Recoveries On Loans To Finance Agricultural Production And Other Loans To Farmers,"Includes the year-to-date recoveries on 'Loans to Finance Agricultural Production and Other Loans to Farmers (1590)'.
+
+COMPARABILITY:
+
+Beginning 3/31/01; for the FFIEC 031; reported On Schedule RI",F
+RIAD5409,Charge-Offs On Loans To Finance Commercial Real Estate; Construction; And Land Development Activities Included In Items 4645; 4646; And 4644,Includes charge-offs on 'Loans to Finance Commercial Real Estate; Construction; and Land Development  Activities (2746)' not secured by real estate. Also such loans are included in items 4645; 4646; a,F
+RIAD5410,Recoveries On Loans To Finance Commercial Real Estate; Construction; And Land Development Activities Included In Items 4617; 4618; And 4628,Includes recoveries on 'Loans to Finance Commercial Real Estate; Construction; and Land Development  Activities (2746)' not secured by real estate. Also such loans are included in items 4617; 4618; an,F
+RIAD5411,Charge-Offs On Revolving; Open-End Loans Secured By 1-4 Family Residential Properties And Extended Under Lines Of Credit,"Includes charge-offs on all 'Revolving; Open-End Loans Secured By 1-4 Family Residential Properties and Extended Under Lines of Credit (1797)'.
+
+NOTE:
+
+Reported only by the FFIEC 031 and 032 repor",F
+RIAD5412,Recoveries On Revolving; Open-End Loans Secured By 1-4 Family Residential Properties And Extended Under Lines Of Credit,"Includes recoveries on all 'Revolving; Open-End Loans Secured By 1-4 Family Residential Properties and Extended Under Lines of Credit (1797)'.
+
+NOTE:
+
+Reported only by the FFIEC 031 and 032 report",F
+RIAD5415,Net Gains (Losses) On Other Real Estate Owned,Includes the dollar amount of net gains (losses) on other real estate owned (reported in Schedule RC; item 2150)  included in 'All Other Noninterest Income' if the absolute value of this amount exceed,F
+RIAD5416,Net Gains (Losses) On Sales Of Loans,"
+ Includes the dollar amount of net gains (losses) on sales of loans and leases (reported in Schedule RC-C)  included in 'All Other Noninterest Income' if the absolute value of this amount exceeds te",F
+RIAD5523,Write Downs Arising From Transfer To Hfs,For series BHCK; report the amount of write-downs to fair value charged against the allowance for loan and lease losses resulting from transfers of loans and leases to a held-for-sale account during t,F
+RIAD8431,Income From The Sale And Servicing Of Mutual Funds And Annuities (In Domestic Offices),"Reported is the amount of income earned by the reporting entity during the calendar year to date from the sale and servicing of mutual funds and annuities (in domestic offices). Includes:
+
+(3)   Fee",F
+RIAD8757,Interest Rate Exposures,"
+ Includes net gains (losses) from trading cash instruments and off-balance sheet derivative contracts that the  reporting bank manages as interest rate exposures. Interest rate exposures may arise f",F
+RIAD8758,Foreign Exchange Exposures,"
+ Includes net gains (losses) from trading cash instruments and off-balance sheet derivative contracts that the  reporting bank manages as foreign exchange exposures. Foreign exchange exposures may a",F
+RIAD8759,Equity Security Or Index Exposures,"
+ Includes net gains (losses) from trading cash instruments and off-balance sheet derivative contracts that the  reporting bank manages as equity security or index exposures. Equity security or index",F
+RIAD8760,Commodity And Other Exposures,Includes net gains (losses) from trading cash instruments and off-balance sheet derivative contracts that the  reporting bank manages as commodity or other exposures. Commodity or other exposures may ,F
+RIADA220,Trading Revenue,Includes the net gain or loss from trading cash instruments and off-balance sheet derivative contracts (including commodity contracts) that has been recognized during the calendar year-to-date. The am,F
+RIADA251,Credit Losses On Off-Balance Sheet Derivatives,"
+ Includes the entity's year-to-date credit losses (e.g.; charge-offs) incurred on off-balance sheet derivative  contracts. The amount reported should include all credit losses regardless of whether ",F
+RIADB485,Loans To Individuals For Households; Family; And Other Personal Expenditures: Credit Cards,Includes all interest; fees; and similar charges levied against or associated with all extensions of credit to individuals for household; family; and other personal expenditures arising from credit ca,F
+RIADB486,Loans To Individuals For Household; Family; And Other Personal Expenditures: Other (Includes Single Payment; Installment; All Student Loans; And Revolving Credit Plans Other Than Credit Cards),"       
+Includes all interest; fees; and similar charges levied against or associated with all other loans to individuals for household; family; and other personal expenditures (in domestic offices) ",F
+RIADB487,All Other Loans In Domestic Offices,For the FFIEC 031 report; includes interest; fees; and similar charges levied against or associated with loans in domestic offices reportable in Schedule RC-C; part I; item 2; 'Loans to depository ins,F
+RIADB488,Interest And Dividend Income On Securities: U.S. Treasury Securities And U.S. Government Agency Obligations (Excluding Mortgage-Backed Securities),"      
+Includes income from all securities reportable in Schedule RC-B; item 1; 'U.S.Treasury securities;' and item 2; 'U.S. Government agency obligations.' Also; includes accretion of discount on U.",F
+RIADB489,Interest And Dividend Income On Securities: Mortgage-Backed Securities,"Includes income from all securities reportable in Schedule RC-B; item 4; 'Mortgage-backed securities.'
+
+NOTE:
+
+Reported on Schedule HI - Consolidated Income Statement for the FR Y-9C report.
+
+Re",F
+RIADB491,Venture Capital Revenue,In general; venture capital activities involve the providing of funds; whether in the form of loans or equity; and technical and management assistance; when needed and requested; to start-up or high-r,F
+RIADB492,Net Servicing Fees,"      Includes income from servicing real estate mortgages; credit cards; and other financial assets held by others. Report any premiums received in lieu of regular servicing fees on such loans only ",F
+RIADB493,Net Securitization Income,Includes net gains (losses) on assets sold in securitization transactions; i.e.; net of transaction costs. Include fees (other than servicing fees) earned from the bank s securitization transactions a,F
+RIADB496,Net Gains (Losses) On Sales Of Other Assets (Excluding Securities),Includes the amount of net gains (losses) on sales and other disposals of assets not required to be reported elsewhere in the income statement (Schedule RI). Include net gains (losses) on sales and ot,F
+RIADB497,Other Noninterest Income,"       
+Includes all operating income of the bank for the calendar year to date not required to be reported elsewhere in Schedule RI. Disclose in Schedule RI-E; items 1.a through 1.h; each component ",F
+RIADB507,Restatements Due To Corrections Of Material Accounting Errors And Changes In Accounting Principles," 
+Includes the sum of all corrections; net of applicable income taxes; resulting from material accounting errors which were made in prior years' Reports of Condition and Income and not corrected by t",F
+RIADB508,Balance End Of Previous Calendar Year As Restated,"      
+Includes the sum of items 3217 and B507.
+
+NOTE:
+
+Reported on Schedule RI-A Equity Capital for the FFIEC 031 and 041 reports.
+
+Reported on Schedule HI-A Changes in Equity Capital for the ",F
+RIADB509,Sale; Conversion; Acquisition; Or Retirement Of Capital Stock; Net (Excluding Treasury Stock Transactions),"       
+Includes the changes in the bank's total equity capital resulting from: 
+
+(1) Sale of the bank's perpetual preferred stock or common stock. Limited-life preferred stock is not included in e",F
+RIADB510,Treasury Stock Transactions; Net,Includes the change in the bank's total equity capital during the calendar yearto date from the acquisition (without retirement) and resale or other disposal of the bank's own perpetual preferred stoc,F
+RIADB511,Other Comprehensive Income,"Includes the bank's other comprehensive income for the calendar year-to-date. If the amount to be reported represents a reduction in the bank's equity capital;&#x0D;
+enclose it in parentheses. &#x0D;
+",F
+RIADB512,Charge-Offs Loans In Foreign Offices,"Include in column A; as appropriate; loans secured by real estate (as defined for Schedule RC-C; part I; item 1) in foreign offices charged-off. 
+
+NOTE: 
+
+This item is applicable only to banks fil",F
+RIADB513,Recoveries On Loans In Foreign Offices,"Include in column B; as appropriate; loans secured by real estate (as defined for Schedule RC-C; part I; item 1) in foreign offices charged-off recovered.
+
+NOTE: 
+
+This item is applicable only to ",F
+RIADB514,Charge-Offs On Loans To Credit Cards,"Include in column A; as appropriate; all extensions of credit under credit cards (as defined for Schedule RC-C; part I; item 6.a; B538 ) charged-off.
+
+NOTE:
+
+Reported on Schedule RI-B-Allowance fo",F
+RIADB515,Recoveries On Loans To Credit Cards,"Include in column B; as appropriate; all extensions of credit under credit cards (as defined for Schedule RC-C; part I; items 6.a; B538) recovered.
+
+NOTE:
+
+Reported on Schedule RI-B-Allowance for ",F
+RIADB522,Balance Most Recently Reported For The December 31; 2000; Reports Of Condition And Income(I.E.; After Adjustments From Amended Report Of Income),"As of 12/31/2023; ASU 2016-13 'Measurement of Credit Losses on Financial Instruments;' was effective for all institutions.&#x0D;     
+&#x0D;Includes the balance of the bank's allowance for loan and le",F
+RIADB747,Charge-Offs On Assets Sold And Securitized With Recourse Or Other Seller-Provided Credit Enhancements (Calendar Year-To-Date): 1-4 Family Residential Loans,Report in column A the amount of loans and leases that have been sold and securitized by the reporting bank in the securitization structures reported in Schedule RC-S; item 1; B705 that have been char,F
+RIADB751,Charge-Offs On Assets Sold And Securitized With Recourse Or Other Seller-Provided Credit Enhancements (Calendar Year-To-Date): Other Consumer Loans,Report in column E the amount of loans and leases that have been sold and securitized by the reporting bank in the securitization structures reported in Schedule RC-S; item 1; B709 that have been char,F
+RIADB754,Recoveries On Assets Sold And Securitized With Recourse Or Other Seller-Provided Credit Enhancements (Calendar Year-To-Date): 1-4 Family Residential Loans,"Report in column A the amount of recoveries of previously charged-off loans and leases in the securitization structures reported in Schedule RC-S; item 1; B7505 during the calendar year-to-date.
+
+NO",F
+RIADC079,Charge-Offs On Allowance For Loan And Lease Losses,Includes the amount of all loans and leases charged against the allowance for loan and lease losses during the calendar year-to-date. The amount reported in this item must equal the sum of no. 5523 Sc,F
+RIADC232,Amortization Expense And Impairment Losses Intangible Assets,For series RIAD; report the amortization expense of and any impairment losses on 'Other intangible assets' (as defined for Schedule RC; item 10.b). Under FASB Statement No. 142; intangible assets that,F
+RIADC233,Adjustments,For series RIAD; report the allowance for loan and lease losses of a bank or other business acquired in a business combination during the calendar year-to-date reporting period. Determine the amount t,F
+RIADC886,Fees And Commissions From Securities Brokerage,Includes fees and commissions from securities brokerage activities; from the sale and servicing of mutual funds; from the purchase and sale of securities and money market instruments where the bank is,F
+RIADC888,Investment Banking; Advisory; And Underwriting Fees And Commissions,Report fees and commissions from underwriting (or participating in the underwriting of) securities; private placements of securities; investment advisory and management services; merger and acquisitio,F
+RIADC890,Net Gains (Losses) On Credit Derivatives Held For Purposes Other Than Trading,Report the net gains (losses) recognized in earnings on credit derivatives held for purposes other than trading (and reportable as other assets or other liabilities; as appropriate; in Schedule RC; it,F
+RIADC897,Loans Secured By Other Nonfarm Nonresidential Properties: Charge-Offs,"NOTE:
+
+Reported on Schedule RI-B; Part I; on the FFIEC 031 & 041 reports.
+
+Added to Y9C on 20070331
+
+For the UBPR series; the FDIC's Data Element name is H-RIADC897.
+ 
+ BAGQ Original Variable ",F
+RIADF186,Trading Revenue; Credit Exposures,"Report in this item net gains (losses) from trading cash instruments and
+derivative contracts that the reporting bank manages as credit exposures. Credit exposures may arise from cash debt instrument",F
+RIADF551,Net Gains (Losses) Recognized In Earnings On Assets That Are Reported At Fair Value Option,"Net gains (losses) recognized in earnings on assets that are reported at fair value option 
+ 
+ BAGQ Original Variable name:  ASTGNSQ Formula:  
+
+ASTGNSQ=IF DT ge 20080331 THEN ASTGNSQ = RIADF551/1",F
+RIADF552,Estimated Net Gain (Losses) On Loans; Reported At Fair Value Option; Attributable To Changes In Instrument-Specific Credit Risk,"Estimated net gain (losses) on loans; reported at fair value option; attributable to changes in instrument-specific credit risk
+ 
+ BAGQ Original Variable name:  LNISCRQ Formula:  
+
+LNISCRQ=IF DT g",F
+RIADF553,Net Gains (Losses) Recognized In Earnings On Liabilities That Are Reported At Fair Value Option,"Net gains (losses) recognized in earnings on liabilities that are reported at fair value option 
+ 
+ BAGQ Original Variable name:  LIABGNSQ Formula:  
+
+LIABGNSQ=IF DT ge 20080331 THEN LIABGNSQ= RIA",F
+RIADF554,Estimated Net Gain (Losses) On Liabilities; Reported At Fair Value Option; Attributable To Changes In Instrument-Specific Credit Risk,"Estimated net gain (losses) on liabilities; reported at fair value option; attributable to changes in instrument-specific credit risk
+ 
+ BAGQ Original Variable name:  LBISCRQ Formula:  
+
+LBISCRQ=I",F
+RIADF555,Bank Card And Credit Card Interchange Fees,"Bank card and credit card interchange fees&#x0D;
+ &#x0D;
+ BAGQ Original Variable name:  BNKFEEQ Formula:  &#x0D;
+&#x0D;
+BNKFEEQ=IF DT ge 20080331 THEN BNKFEEQ = RIADF555/1000;&#x0D;
+ &#x0D;
+ BAGY Orig",F
+RIADF557,Consulting And Advisory Expense,"Consulting and advisory expense
+ 
+ BAGQ Original Variable name:  ADVEXPQ Formula:  
+
+ADVEXPQ=IF DT ge 20080331 THEN ADVEXPQ = RIADF557/1000;
+ 
+ BAGY Original Variable name:  ADVEXP Formula:  
+",F
+RIADF559,Telecommunications Expense,"Telecommunications expense
+ 
+ BAGQ Original Variable name:  TCOMEXPQ Formula:  
+
+TCOMEXPQ=IF DT ge 20080331 THEN TCOMEXPQ = RIADF559/1000;
+ 
+ BAGY Original Variable name:  TCOMEXP Formula:  
+
+",F
